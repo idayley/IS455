@@ -1,0 +1,930 @@
+API,Description,Auth,HTTPS,Cors,Link,Category
+Axolotl,Collection of axolotl pictures and facts,,True,unknown,https://theaxolotlapi.netlify.app/,Animals
+Cat Facts,Daily cat facts,,True,no,https://alexwohlbruck.github.io/cat-facts/,Animals
+Cataas,Cat as a service (cats pictures and gifs),,True,unknown,https://cataas.com/,Animals
+catAPI,Random pictures of cats,,True,yes,https://github.com/ThatCopy/catAPI/wiki/Usage,Animals
+Cats,Pictures of cats from Tumblr,apiKey,True,unknown,https://docs.thecatapi.com/,Animals
+Dog Facts,Random dog facts,,True,unknown,https://dukengn.github.io/Dog-facts-API/,Animals
+Dogs,Based on the Stanford Dogs Dataset,,True,yes,https://dog.ceo/dog-api/,Animals
+HTTPCat,Cat for every HTTP Status,,True,unknown,https://http.cat/,Animals
+IUCN,IUCN Red List of Threatened Species,apiKey,False,unknown,http://apiv3.iucnredlist.org/api/v3/docs,Animals
+Movebank,Movement and Migration data of animals,,True,unknown,https://github.com/movebank/movebank-api-doc,Animals
+PlaceBear,Placeholder bear pictures,,True,yes,https://placebear.com/,Animals
+PlaceDog,Placeholder Dog pictures,,True,yes,https://place.dog,Animals
+RandomCat,Random pictures of cats,,True,yes,https://aws.random.cat/meow,Animals
+RandomDog,Random pictures of dogs,,True,yes,https://random.dog/woof.json,Animals
+RandomDuck,Random pictures of ducks,,True,no,https://random-d.uk/api,Animals
+RandomFox,Random pictures of foxes,,True,no,https://randomfox.ca/floof/,Animals
+RescueGroups,Adoption,,True,unknown,https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home,Animals
+Shibe.Online,"Random pictures of Shiba Inu, cats or birds",,True,yes,http://shibe.online/,Animals
+AniAPI,"Anime discovery, streaming & syncing with trackers",OAuth,True,yes,https://github.com/AniAPI-Team/AniAPI,Anime
+AniList,Anime discovery & tracking,OAuth,True,unknown,https://github.com/AniList/ApiV2-GraphQL-Docs,Anime
+AnimeChan,Anime quotes (over 10k+),,True,no,https://github.com/RocktimSaikia/anime-chan,Anime
+AnimeNewsNetwork,Anime industry news,,True,yes,https://www.animenewsnetwork.com/encyclopedia/api.php,Anime
+Jikan,Unofficial MyAnimeList API,,True,yes,https://jikan.moe,Anime
+Kitsu,Anime discovery platform,OAuth,True,yes,https://kitsu.docs.apiary.io/,Anime
+MyAnimeList,Anime and Manga Database and Community,OAuth,True,unknown,https://myanimelist.net/clubs.php?cid=13727,Anime
+NekosBest,Neko Images & Anime roleplaying GIFs,,True,yes,https://docs.nekos.best,Anime
+Shikimori,"Anime discovery, tracking, forum, rates",OAuth,True,unknown,https://shikimori.one/api/doc,Anime
+Studio Ghibli,Resources from Studio Ghibli films,,True,yes,https://ghibliapi.herokuapp.com,Anime
+Waifu.pics,Image sharing platform for anime images,,True,no,https://waifu.pics/docs,Anime
+AbuseIPDB,IP/domain/URL reputation,apiKey,True,unknown,https://docs.abuseipdb.com/,Anti-Malware
+AlienVault Open Threat Exchange (OTX),IP/domain/URL reputation,apiKey,True,unknown,https://otx.alienvault.com/api,Anti-Malware
+Google Safe Browsing,Google Link/Domain Flagging,apiKey,True,unknown,https://developers.google.com/safe-browsing/,Anti-Malware
+MalShare,Malware Archive / file sourcing,apiKey,True,no,https://malshare.com/doc.php,Anti-Malware
+Metacert,Metacert Link Flagging,apiKey,True,unknown,https://metacert.com/,Anti-Malware
+URLhaus,Bulk queries and Download Malware Samples,,True,unknown,https://urlhaus-api.abuse.ch/,Anti-Malware
+URLScan.io,Scan and Analyse URLs,apiKey,True,unknown,https://urlscan.io/about-api/,Anti-Malware
+VirusTotal,VirusTotal File/URL Analysis,apiKey,True,unknown,https://www.virustotal.com/en/documentation/public-api/,Anti-Malware
+Art Institute of Chicago,Art,,True,yes,https://api.artic.edu/docs/,Art & Design
+ColourLovers,"Get various patterns, palettes and images",,False,unknown,http://www.colourlovers.com/api,Art & Design
+Cooper Hewitt,Smithsonian Design Museum,apiKey,True,unknown,https://collection.cooperhewitt.org/api,Art & Design
+Dribbble,Discover the world’s top designers & creatives,OAuth,True,unknown,https://developer.dribbble.com,Art & Design
+Europeana,European Museum and Galleries content,apiKey,True,unknown,https://pro.europeana.eu/resources/apis/search,Art & Design
+Harvard Art Museums,Art,apiKey,False,unknown,https://github.com/harvardartmuseums/api-docs,Art & Design
+Icon Horse,"Favicons for any website, with fallbacks",,True,yes,https://icon.horse,Art & Design
+Iconfinder,Icons,apiKey,True,unknown,https://developer.iconfinder.com,Art & Design
+Icons8,Icons,OAuth,True,unknown,http://docs.icons8.apiary.io/#reference/0/meta,Art & Design
+Metropolitan Museum of Art,Met Museum of Art,,True,unknown,https://metmuseum.github.io/,Art & Design
+Noun Project,Icons,OAuth,False,unknown,http://api.thenounproject.com/index.html,Art & Design
+PHP-Noise,Noise Background Image Generator,,True,yes,https://php-noise.com/,Art & Design
+Pixel Encounter,SVG Icon Generator,,True,no,https://pixelencounter.com/api,Art & Design
+Rijksmuseum,Art,apiKey,True,unknown,https://www.rijksmuseum.nl/en/api,Art & Design
+Auth0,"Easy to implement, adaptable authentication and authorization platform",apiKey,True,yes,https://auth0.com,Authentication
+Micro User Service,User management and authentication,apiKey,True,no,https://m3o.com/user,Authentication
+MojoAuth,Secure and modern passwordless authentication platform,apiKey,True,yes,https://mojoauth.com,Authentication
+Stytch,User infrastructure for modern applications,apiKey,True,no,https://stytch.com/,Authentication
+Bhagavad Gita,Bhagavad Gita text,OAuth,True,yes,https://bhagavadgita.io/api,Books
+Bible,"RESTful Bible API with 7 versions, 4 languages and multiple features",apiKey,True,unknown,https://bibleapi.co/en,Books
+British National Bibliography,Books,,False,unknown,http://bnb.data.bl.uk/,Books
+Crossref Metadata Search,Books & Articles Metadata,,True,unknown,https://github.com/CrossRef/rest-api-doc,Books
+Google Books,Books,OAuth,True,unknown,https://developers.google.com/books/,Books
+ISBNdb,The World’s largest book database,apiKey,True,unknown,https://isbndb.com/apidocs/v2,Books
+LibGen,Library Genesis search engine,,False,unknown,https://garbage.world/posts/libgen/,Books
+New York Times Books,Book reviews and The New York Times Best Sellers lists,apiKey,True,unknown,https://developer.nytimes.com/docs/books-product/1/overview,Books
+Open Library,"Books, book covers and related data",,True,no,https://openlibrary.org/developers/api,Books
+Penguin Publishing,"Books, book covers and related data",,True,yes,http://www.penguinrandomhouse.biz/webservices/rest/,Books
+Quran,RESTful Quran API with multiple languages,,True,yes,https://quran.api-docs.io/,Books
+Quran Cloud,"A RESTful Quran API to retrieve an Ayah, Surah, Juz or the entire Holy Quran",,True,yes,https://alquran.cloud/api,Books
+Quran-api,Free Quran API Service with 90+ different languages and 400+ translations,,True,yes,https://github.com/fawazahmed0/quran-api#readme,Books
+Rig Veda,"Gods and poets, their categories, and the verse meters, with the mandal and sukta number",,True,unknown,https://aninditabasu.github.io/indica/html/rv.html,Books
+The Bible,Everything you need from the Bible in one discoverable place,apiKey,True,unknown,https://docs.api.bible,Books
+Thirukkural,1330 Thirukkural poems and explanation in Tamil and English,,True,yes,https://api-thirukkural.web.app/,Books
+Vedic Society,"Descriptions of all nouns (names, places, animals, things) from vedic literature",,True,unknown,https://aninditabasu.github.io/indica/html/vs.html,Books
+Wolne Lektury,API for obtaining information about e-books available on the WolneLektury.pl website,,True,unknown,https://wolnelektury.pl/api/,Books
+Charity Search,Non-profit charity data,apiKey,False,unknown,http://charityapi.orghunter.com/,Business
+Clearbit Logo,Search for company logos and embed them in your projects,apiKey,True,unknown,https://clearbit.com/docs#logo-api,Business
+Domainsdb.info,Registered Domain Names Search,,True,no,https://domainsdb.info/,Business
+Freelancer,Hire freelancers to get work done,OAuth,True,unknown,https://developers.freelancer.com,Business
+Gmail,"Flexible, RESTful access to the user's inbox",OAuth,True,unknown,https://developers.google.com/gmail/api/,Business
+Google Analytics,"Collect, configure and analyze your data to reach the right audience",OAuth,True,unknown,https://developers.google.com/analytics/,Business
+mail.tm,Temporary Email Service,,True,yes,https://docs.mail.tm,Business
+MailboxValidator,Validate email address to improve deliverability,apiKey,True,unknown,https://www.mailboxvalidator.com/api-email-free,Business
+mailgun,Email Service,apiKey,True,unknown,https://www.mailgun.com/,Business
+markerapi,Trademark Search,,False,unknown,http://www.markerapi.com/,Business
+ORB Intelligence,Company lookup,apiKey,True,unknown,https://api.orb-intelligence.com/docs/,Business
+Smartsheet,Allows you to programmatically access and Smartsheet data and account information,OAuth,True,no,https://smartsheet.redoc.ly/,Business
+SwiftKanban,"Kanban software, Visualize Work, Increase Organizations Lead Time, Throughput & Productivity",apiKey,True,unknown,https://www.digite.com/swiftkanban/,Business
+Trello,"Boards, lists and cards to help you organize and prioritize your projects",OAuth,True,unknown,https://developers.trello.com/,Business
+Abstract Public Holidays,"Data on national, regional, and religious holidays via API",apiKey,True,yes,https://www.abstractapi.com/holidays-api,Calendar
+Calendar Index,Worldwide Holidays and Working Days,apiKey,True,yes,https://www.calendarindex.com/,Calendar
+Church Calendar,Catholic liturgical calendar,,False,unknown,http://calapi.inadiutorium.cz/,Calendar
+Czech Namedays Calendar,Lookup for a name and returns nameday date,,False,unknown,https://svatky.adresa.info,Calendar
+Google Calendar,"Display, create and modify Google calendar events",OAuth,True,unknown,https://developers.google.com/google-apps/calendar/,Calendar
+Hebrew Calendar,"Convert between Gregorian and Hebrew, fetch Shabbat and Holiday times, etc",,False,unknown,https://www.hebcal.com/home/developer-apis,Calendar
+Holidays,Historical data regarding holidays,apiKey,True,unknown,https://holidayapi.com/,Calendar
+LectServe,Protestant liturgical calendar,,False,unknown,http://www.lectserve.com,Calendar
+Megavangelical,A (satirical) Evangelical liturgical calendar,,True,yes,https://megavangelicals.com/sundays.json,Calendar
+Nager.Date,Public holidays for more than 90 countries,,True,no,https://date.nager.at,Calendar
+Namedays Calendar,Provides namedays for multiple countries,,True,yes,https://nameday.abalin.net,Calendar
+Non-Working Days,"Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other",,True,yes,https://isdayoff.ru,Calendar
+Russian Calendar,Check if a date is a Russian holiday or not,,True,no,https://github.com/egno/work-calendar,Calendar
+UK Bank Holidays,"Bank holidays in England and Wales, Scotland and Northern Ireland",,True,unknown,https://www.gov.uk/bank-holidays.json,Calendar
+UnixTime Converter,A REST API to convert UnixTime to DateTime and DateTime to UnixTime,,True,unknown,https://unixtime.co.za,Calendar
+AnonFiles,Upload and share your files anonymously,,True,unknown,https://anonfiles.com/docs/api,Cloud Storage & File Sharing
+BayFiles,Upload and share your files,,True,unknown,https://bayfiles.com/docs/api,Cloud Storage & File Sharing
+Box,File Sharing and Storage,OAuth,True,unknown,https://developer.box.com/,Cloud Storage & File Sharing
+Dropbox,File Sharing and Storage,OAuth,True,unknown,https://www.dropbox.com/developers,Cloud Storage & File Sharing
+File.io,"Super simple file sharing, convenient, anonymous and secure",,True,unknown,https://www.file.io,Cloud Storage & File Sharing
+GoFile,Unlimited size file uploads for free,apiKey,True,unknown,https://gofile.io/api,Cloud Storage & File Sharing
+Google Drive,File Sharing and Storage,OAuth,True,unknown,https://developers.google.com/drive/,Cloud Storage & File Sharing
+OneDrive,File Sharing and Storage,OAuth,True,unknown,https://dev.onedrive.com/,Cloud Storage & File Sharing
+Pantry,Free JSON storage for small projects,,True,yes,https://getpantry.cloud/,Cloud Storage & File Sharing
+Pastebin,Plain Text Storage,apiKey,True,unknown,https://pastebin.com/doc_api,Cloud Storage & File Sharing
+Web3 Storage,File Sharing and Storage for Free with 1TB Space,apiKey,True,yes,https://web3.storage/,Cloud Storage & File Sharing
+CircleCI,Automate the software development process using continuous integration and continuous delivery,apiKey,True,unknown,https://circleci.com/docs/api/v1-reference/,Continuous Integration
+Codeship,Codeship is a Continuous Integration Platform in the cloud,apiKey,True,unknown,https://apidocs.codeship.com/,Continuous Integration
+Travis CI,Sync your GitHub projects with Travis CI to test your code in minutes,apiKey,True,unknown,https://docs.travis-ci.com/api/,Continuous Integration
+apilayer coinlayer,Real-time Crypto Currency Exchange Rates,apiKey,True,unknown,https://coinlayer.com,Cryptocurrency
+Binance,Exchange for Trading Cryptocurrencies based in China,apiKey,True,unknown,https://github.com/binance/binance-spot-api-docs,Cryptocurrency
+BitcoinAverage,Digital Asset Price Data for the blockchain industry,apiKey,True,unknown,https://apiv2.bitcoinaverage.com/,Cryptocurrency
+BitcoinCharts,Financial and Technical Data related to the Bitcoin Network,,True,unknown,https://bitcoincharts.com/about/exchanges/,Cryptocurrency
+Bitfinex,Cryptocurrency Trading Platform,apiKey,True,unknown,https://docs.bitfinex.com/docs,Cryptocurrency
+Bitmex,Real-Time Cryptocurrency derivatives trading platform based in Hong Kong,apiKey,True,unknown,https://www.bitmex.com/app/apiOverview,Cryptocurrency
+Bitquery,Onchain GraphQL APIs & DEX APIs,apiKey,True,yes,https://graphql.bitquery.io/ide,Cryptocurrency
+Bittrex,Next Generation Crypto Trading Platform,apiKey,True,unknown,https://bittrex.com/Home/Api,Cryptocurrency
+Block,"Bitcoin Payment, Wallet & Transaction Data",apiKey,True,unknown,https://www.block.io/docs/basic,Cryptocurrency
+Blockchain,"Bitcoin Payment, Wallet & Transaction Data",apiKey,True,unknown,https://www.blockchain.com/api,Cryptocurrency
+BlockFacts,"Real-time crypto data from multiple exchanges via a single unified API, and much more",apiKey,True,unknown,https://blockfacts.io/,Cryptocurrency
+CoinAPI,All Currency Exchanges integrate under a single api,apiKey,True,no,https://docs.coinapi.io/,Cryptocurrency
+Coinbase,"Bitcoin, Bitcoin Cash, Litecoin and Ethereum Prices",apiKey,True,unknown,https://developers.coinbase.com,Cryptocurrency
+Coinbase Pro,Cryptocurrency Trading Platform,apiKey,True,unknown,https://docs.pro.coinbase.com/#api,Cryptocurrency
+CoinCap,Real time Cryptocurrency prices through a RESTful API,,True,unknown,https://docs.coincap.io/,Cryptocurrency
+CoinGecko,"Cryptocurrency Price, Market, and Developer/Social Data",,True,yes,http://www.coingecko.com/api,Cryptocurrency
+Coinigy,Interacting with Coinigy Accounts and Exchange Directly,apiKey,True,unknown,https://coinigy.docs.apiary.io,Cryptocurrency
+Coinlib,Crypto Currency Prices,apiKey,True,unknown,https://coinlib.io/apidocs,Cryptocurrency
+Coinlore,"Cryptocurrencies prices, volume and more",,True,unknown,https://www.coinlore.com/cryptocurrency-data-api,Cryptocurrency
+CoinMarketCap,Cryptocurrencies Prices,apiKey,True,unknown,https://coinmarketcap.com/api/,Cryptocurrency
+Coinpaprika,"Cryptocurrencies prices, volume and more",,True,yes,https://api.coinpaprika.com,Cryptocurrency
+CoinRanking,Live Cryptocurrency data,,True,unknown,https://docs.coinranking.com/,Cryptocurrency
+Coinremitter,Cryptocurrencies Payment & Prices,apiKey,True,unknown,https://coinremitter.com/docs,Cryptocurrency
+CoinStats,Crypto Tracker,,True,unknown,https://documenter.getpostman.com/view/5734027/RzZ6Hzr3?version=latest,Cryptocurrency
+Covalent,Multi-blockchain data aggregator platform,apiKey,True,unknown,https://www.covalenthq.com/docs/api/,Cryptocurrency
+CryptoCompare,Cryptocurrencies Comparison,,True,unknown,https://www.cryptocompare.com/api#,Cryptocurrency
+CryptoMarket,Cryptocurrencies Trading platform,apiKey,True,yes,https://developers.cryptomkt.com,Cryptocurrency
+Cryptonator,Cryptocurrencies Exchange Rates,,True,unknown,https://www.cryptonator.com/api/,Cryptocurrency
+CryptoTradingAPI,Crypto Prices & Technical Indicators,apiKey,True,unknown,https://www.cryptotradingapi.io/,Cryptocurrency
+Gemini,Cryptocurrencies Exchange,,True,unknown,https://docs.gemini.com/rest-api/,Cryptocurrency
+ICObench,"Various information on listing, ratings, stats, and more",apiKey,True,unknown,https://icobench.com/developers,Cryptocurrency
+MercadoBitcoin,Brazilian Cryptocurrency Information,,True,unknown,https://www.mercadobitcoin.net/api-doc/,Cryptocurrency
+Nexchange,Automated cryptocurrency exchange service,,False,yes,https://nexchange2.docs.apiary.io/,Cryptocurrency
+Nomics,Historical and realtime cryptocurrency prices and market data,apiKey,True,yes,https://nomics.com/docs/,Cryptocurrency
+Poloniex,US based digital asset exchange,apiKey,True,unknown,https://poloniex.com/support/api/,Cryptocurrency
+Technical Analysis,Cryptocurrency prices and technical analysis,apiKey,True,no,https://technical-analysis-api.com,Cryptocurrency
+VALR,Cryptocurrency Exchange based in South Africa,apiKey,True,unknown,https://docs.valr.com/,Cryptocurrency
+WallstreetBets,WallstreetBets Stock Comments Sentiment Analysis,,True,unknown,https://dashboard.nbshare.io/apps/reddit/api/,Cryptocurrency
+WorldCoinIndex,Cryptocurrencies Prices,apiKey,True,unknown,https://www.worldcoinindex.com/apiservice,Cryptocurrency
+1Forge,Forex currency market data,apiKey,True,unknown,https://1forge.com/forex-data-api/api-documentation,Currency Exchange
+apilayer fixer.io,Exchange rates and currency conversion,apiKey,False,unknown,https://fixer.io,Currency Exchange
+Bank of Russia,Exchange rates and currency conversion,,True,unknown,https://www.cbr.ru/development/SXML/,Currency Exchange
+Currency-api,Free Currency Exchange Rates API with 150+ Currencies & No Rate Limits,,True,yes,https://github.com/fawazahmed0/currency-api#readme,Currency Exchange
+Currencylayer,Exchange rates and currency conversion,apiKey,True,unknown,https://currencylayer.com/documentation,Currency Exchange
+CurrencyScoop,Real-time and historical currency rates JSON API,apiKey,True,yes,https://currencyscoop.com/api-documentation,Currency Exchange
+Czech National Bank,A collection of exchange rates,,True,unknown,https://www.cnb.cz/cs/financni_trhy/devizovy_trh/kurzy_devizoveho_trhu/denni_kurz.xml,Currency Exchange
+ExchangeRate-API,Free currency conversion,apiKey,True,yes,https://www.exchangerate-api.com,Currency Exchange
+Exchangerate.host,Free foreign exchange & crypto rates API,,True,unknown,https://exchangerate.host,Currency Exchange
+Exchangeratesapi.io,Exchange rates with currency conversion,apiKey,True,yes,https://exchangeratesapi.io,Currency Exchange
+Frankfurter,"Exchange rates, currency conversion and time series",,True,yes,https://www.frankfurter.app/docs,Currency Exchange
+National Bank of Poland,A collection of currency exchange rates (data in XML and JSON),,True,yes,http://api.nbp.pl/en.html,Currency Exchange
+VATComply.com,"Exchange rates, geolocation and VAT number validation",,True,yes,https://www.vatcomply.com/documentation,Currency Exchange
+Abstract Email Validation,Validate email addresses for deliverability and spam,apiKey,True,yes,https://www.abstractapi.com/email-verification-validation-api,Data Validation
+apilayer mailboxlayer,Email address validation,,True,unknown,https://mailboxlayer.com,Data Validation
+Cloudmersive Validate,Validate international phone numbers,apiKey,True,yes,https://cloudmersive.com/phone-number-validation-API,Phone
+EVA,Validate email addresses,,True,yes,https://eva.pingutil.com/,Data Validation
+Lob.com,US Address Verification,apiKey,True,unknown,https://lob.com/,Data Validation
+PurgoMalum,Content validator against profanity & obscenity,,False,unknown,http://www.purgomalum.com,Data Validation
+US Autocomplete,Enter address data quickly with real-time address suggestions,apiKey,True,yes,https://smartystreets.com/docs/cloud/us-autocomplete-api,Data Validation
+US Extract,Extract postal addresses from any text including emails,apiKey,True,yes,https://smartystreets.com/products/apis/us-extract-api,Data Validation
+US Street Address,Validate and append data for any US postal address,apiKey,True,yes,https://smartystreets.com/docs/cloud/us-street-api,Data Validation
+vatlayer,VAT number validation,,True,unknown,https://vatlayer.com,Data Validation
+Veriphone,Phone number validation & carrier lookup,apiKey,True,yes,https://veriphone.io,Data Validation
+24 Pull Requests,Project to promote open source collaboration during December,,True,yes,https://24pullrequests.com/api,Development
+Abstract Screenshot,Take programmatic screenshots of web pages from any website,apiKey,True,yes,https://www.abstractapi.com/website-screenshot-api,Development
+Agify.io,Estimates the age from a first name,,True,yes,https://agify.io,Development
+ApicAgent,Extract device details from user-agent string,,True,yes,https://www.apicagent.com,Development
+ApiFlash,Chrome based screenshot API for developers,apiKey,True,unknown,https://apiflash.com/,Development
+apilayer userstack,Secure User-Agent String Lookup JSON API,OAuth,True,unknown,https://userstack.com/,Development
+APIs.guru,"Wikipedia for Web APIs, OpenAPI/Swagger specs for public APIs",,True,unknown,https://apis.guru/api-doc/,Development
+Bitbucket,Bitbucket API,OAuth,True,unknown,https://developer.atlassian.com/bitbucket/api/2/reference/,Development
+Blitapp,Schedule screenshots of web pages and sync them to your cloud,apiKey,True,unknown,https://blitapp.com/api/,Development
+Bored,Find random activities to fight boredom,,True,unknown,https://www.boredapi.com/,Development
+Browshot,"Easily make screenshots of web pages in any screen size, as any device",apiKey,True,yes,https://browshot.com/api/documentation,Development
+CDNJS,Library info on CDNJS,,True,unknown,https://api.cdnjs.com/libraries/jquery,Development
+Changelogs.md,Structured changelog metadata from open source projects,,True,unknown,https://changelogs.md,Development
+Ciprand,Secure random string generator,,True,no,https://github.com/polarspetroll/ciprand,Development
+Cloudflare Trace,"Get IP Address, Timestamp, User Agent, Country Code, IATA, HTTP Version, TLS/SSL Version & More",,True,yes,https://github.com/fawazahmed0/cloudflare-trace-api,Development
+Contentful Images,Used to retrieve and apply transformations to images,apiKey,True,yes,https://www.contentful.com/developers/docs/references/images-api/,Development
+CORS Proxy,Get around the dreaded CORS error by using this proxy as a middle man,,True,yes,https://github.com/burhanuday/cors-proxy,Development
+CountAPI,Free and simple counting service. You can use it to track page hits and specific events,,True,yes,https://countapi.xyz,Development
+DigitalOcean Status,Status of all DigitalOcean services,,True,unknown,https://status.digitalocean.com/api,Development
+DomainDb Info,Domain name search to find all domains containing particular words/phrases/etc,,True,unknown,https://api.domainsdb.info/,Development
+ExtendsClass JSON Storage,A simple JSON store API,,True,yes,https://extendsclass.com/json-storage.html,Development
+Form2Channel,"Send static html form submissions to Google Sheets, Email, Slack or Telegram",,True,yes,https://form2channel.com/,Development
+Genderize.io,Estimates a gender from a first name,,True,yes,https://genderize.io,Development
+GETPing,Trigger an email notification with a simple GET request,apiKey,True,unknown,https://www.getping.info,Development
+GitHub,"Make use of GitHub repositories, code and user info programmatically",OAuth,True,yes,https://docs.github.com/en/free-pro-team@latest/rest,Development
+Gitlab,Automate GitLab interaction programmatically,OAuth,True,unknown,https://docs.gitlab.com/ee/api/,Development
+Gitter,Chat for Developers,OAuth,True,unknown,https://developer.gitter.im/docs/welcome,Development
+Glitterly,Image generation API,apiKey,True,yes,https://developers.glitterly.app,Development
+Gorest,Online REST API for Testing and Prototyping,OAuth,True,unknown,https://gorest.co.in/,Development
+Hexabin,"Convert and retrieve hexadecimal, binary, decimal, and octal values with ease",,False,unknown,https://hexabin.herokuapp.com/,Development
+host-t.com,Basic DNS query via HTTP GET request,,True,no,https://host-t.com,Development
+Host.io,Domains Data API for Developers,apiKey,True,yes,https://host.io,Development
+HTTP2.Pro,Test endpoints for client and server HTTP/2 protocol support,,True,unknown,https://http2.pro/doc/api,Development
+Httpbin,A Simple HTTP Request & Response Service,,True,yes,https://httpbin.org/,Development
+Httpbin Cloudflare,A Simple HTTP Request & Response Service with HTTP/3 Support by Cloudflare,,True,yes,https://cloudflare-quic.com/b/,Development
+IBM Text to Speech,Convert text to speech,apiKey,True,yes,https://cloud.ibm.com/docs/text-to-speech/getting-started.html,Development
+Icanhazepoch,Get Epoch time,,True,yes,https://icanhazepoch.com,Development
+Icanhazip,IP Address API,,True,yes,https://major.io/icanhazip-com-faq/,Development
+IFTTT,IFTTT Connect API,,True,unknown,https://platform.ifttt.com/docs/connect_api,Development
+Image-Charts,"Generate charts, QR codes and graph images",,True,yes,https://documentation.image-charts.com/,Development
+import.io,Retrieve structured data from a website or RSS feed,apiKey,True,unknown,http://api.docs.import.io/,Development
+IP2WHOIS Information Lookup,WHOIS domain name lookup,apiKey,True,unknown,https://www.ip2whois.com/,Development
+IPify,A simple IP Address API,,True,unknown,https://www.ipify.org/,Development
+IPinfo,Another simple IP Address API,,True,unknown,https://ipinfo.io/developers,Development
+jsDelivr,Package info and download stats on jsDelivr CDN,,True,yes,https://github.com/jsdelivr/data.jsdelivr.com,Development
+JSON 2 JSONP,Convert JSON to JSONP (on-the-fly) for easy cross-domain data requests using client-side JavaScript,,True,unknown,https://json2jsonp.com/,Development
+JSONbin.io,"Free JSON storage service. Ideal for small scale Web apps, Websites and Mobile apps",apiKey,True,yes,https://jsonbin.io,Development
+Judge0,Compile and run source code,,True,unknown,https://api.judge0.com/,Development
+Kroki,Creates diagrams from textual descriptions,,True,yes,https://kroki.io,Development
+License-API,Unofficial REST API for choosealicense.com,,True,no,https://github.com/cmccandless/license-api/blob/master/README.md,Development
+MAC address vendor lookup,Retrieve vendor details and other information regarding a given MAC address or an OUI,apiKey,True,yes,https://macaddress.io/api,Development
+MicroENV,Fake Rest API for developers,,True,unknown,https://microenv.com/,Development
+Nationalize.io,Estimate the nationality of a first name,,True,yes,https://nationalize.io,Development
+OOPSpam,Multiple spam filtering service,,True,yes,https://oopspam.com/,Development
+PageCDN,"Public API for javascript, css and font libraries on PageCDN",apiKey,True,yes,https://pagecdn.com/docs/public-api,Development
+Postman,Tool for testing APIs,apiKey,True,unknown,https://docs.api.getpostman.com/,Development
+ProxyCrawl,Scraping and crawling anticaptcha service,apiKey,True,unknown,https://proxycrawl.com,Development
+Public APIs,A collective list of free JSON APIs for use in web development,,True,unknown,https://github.com/davemachado/public-api,Development
+Pusher Beams,Push notifications for Android & iOS,apiKey,True,unknown,https://pusher.com/beams,Development
+QR Code,Create new QR Code or decode existing one,apiKey,True,yes,https://fungenerators.com/api/qrcode/,Development
+QR code,Generate and decode / read QR code graphics,,True,unknown,http://goqr.me/api/,Development
+QuickChart,Generate chart and graph images,,True,yes,https://quickchart.io/,Development
+Rejax,Reverse AJAX service to notify clients,apiKey,True,no,https://rejax.io/,Development
+ReqRes,A hosted REST-API ready to respond to your AJAX requests,,True,unknown,https://reqres.in/ ,Development
+RSS feed to JSON,Returns RSS feed in JSON format using feed URL,,True,yes,https://rss-to-json-serverless-api.vercel.app,Development
+SavePage.io,"A free, RESTful API used to screenshot any desktop, or mobile website",apiKey,True,yes,https://www.savepage.io,Development
+Scraper.AI,Extract and monitor data from any website,apiKey,True,unknown,https://docs.scraper.ai/#/,Development
+ScraperApi,Easily build scalable web scrapers,apiKey,True,unknown,https://www.scraperapi.com,Development
+scraperBox,Undetectable web scraping API,apiKey,True,yes,https://scraperbox.com/,Development
+scrapestack,"Real-time, Scalable Proxy & Web Scraping REST API",apiKey,True,unknown,https://scrapestack.com/,Development
+ScrapingAnt,Headless Chrome scraping with a simple API,apiKey,True,unknown,https://scrapingant.com,Development
+ScrapingDog,Proxy API for Web scraping,apiKey,True,unknown,https://www.scrapingdog.com/,Development
+ScreenshotAPI.net,Create pixel-perfect website screenshots,apiKey,True,yes,https://screenshotapi.net/,Development
+Serialif Color,"Color conversion, complementary, grayscale and contrasted text",,True,no,https://color.serialif.com/,Development
+serpstack,Real-Time & Accurate Google Search Results API,apiKey,True,yes,https://serpstack.com/,Development
+SHOUTCLOUD,ALL-CAPS AS A SERVICE,,False,unknown,http://shoutcloud.io/,Development
+StackExchange,Q&A forum for developers,OAuth,True,unknown,https://api.stackexchange.com/,Development
+Statically,A free CDN for developers,,True,yes,https://statically.io/,Development
+Trending-Github,Discover what is currently trending on github,,True,yes,https://docs.trending-github.com,Development
+Tyk,Api and service management platform,apiKey,True,yes,https://tyk.io/open-source/,Development
+WebScraping.AI,Web Scraping API with built-in proxies and JS rendering,apiKey,True,yes,https://webscraping.ai/,Development
+Chinese Character Web,Chinese character definitions and pronunciations,,False,no,http://ccdb.hemiola.com/,Dictionaries
+Chinese Text Project,Online open-access digital library for pre-modern Chinese texts,,True,unknown,https://ctext.org/tools/api,Dictionaries
+Free Dictionary,"Definitions, phonetics, pronounciations, parts of speech, examples, synonyms",,True,unknown,https://dictionaryapi.dev/,Dictionaries
+Lingua Robot,"Word definitions, pronunciations, synonyms, antonyms and others",apiKey,True,yes,https://www.linguarobot.io,Dictionaries
+Merriam-Webster,Dictionary and Thesaurus Data,apiKey,True,unknown,https://dictionaryapi.com/,Dictionaries
+OwlBot,Definitions with example sentence and photo if available,apiKey,True,yes,https://owlbot.info/,Dictionaries
+Oxford,Dictionary Data,apiKey,True,no,https://developer.oxforddictionaries.com/,Dictionaries
+Wordnik,Dictionary Data,apiKey,True,unknown,https://developer.wordnik.com,Dictionaries
+Words,"Definitions and synonyms for more than 150,000 words",apiKey,True,unknown,https://www.wordsapi.com/,Dictionaries
+Airtable,Integrate with Airtable,apiKey,True,unknown,https://airtable.com/api,Documents & Productivity
+apilayer pdflayer,HTML/URL to PDF,apiKey,True,unknown,https://pdflayer.com,Documents & Productivity
+Cloudmersive Document and Data Conversion,"HTML/URL to PDF/PNG, Office documents to PDF, image conversion",apiKey,True,yes,https://cloudmersive.com/convert-api,Documents & Productivity
+Code::Stats,Automatic time tracking for programmers,apiKey,True,no,https://codestats.net/api-docs,Documents & Productivity
+Mercury,Web parser,apiKey,True,unknown,https://mercury.postlight.com/web-parser/,Documents & Productivity
+Notion,Integrate with Notion,OAuth,True,unknown,https://developers.notion.com/docs/getting-started,Documents & Productivity
+Pocket,Bookmarking service,OAuth,True,unknown,https://getpocket.com/developer/,Documents & Productivity
+PrexView,"Data from XML or JSON to PDF, HTML or Image",apiKey,True,unknown,https://prexview.com,Documents & Productivity
+Restpack,"Provides screenshot, HTML to PDF and content extraction APIs",apiKey,True,unknown,https://restpack.io/,Documents & Productivity
+Todoist,Todo Lists,OAuth,True,unknown,https://developer.todoist.com,Documents & Productivity
+Vector Express v2.0,Free vector file converting API,,True,no,https://vector.express,Documents & Productivity
+WakaTime,Automated time tracking leaderboards for programmers,,True,unknown,https://wakatime.com/developers,Documents & Productivity
+Zube,Full stack project management,OAuth,True,unknown,https://zube.io/docs/api,Documents & Productivity
+AirVisual,Air quality and weather data,apiKey,True,unknown,https://airvisual.com/api,Environment
+Carbon Interface,API to calculate carbon (C02) emissions estimates for common C02 emitting activities,apiKey,True,yes,https://docs.carboninterface.com/,Environment
+Cloverly,API calculates the impact of common carbon-intensive activities in real time,apiKey,True,unknown,https://www.cloverly.com/carbon-offset-documentation,Environment
+GrünstromIndex,Green Power Index for Germany (Grünstromindex/GSI),,False,yes,https://www.corrently.de/hintergrund/gruenstromindex/index.html,Environment
+La Data Verte,"Aggregation of multiple environmental indicators (CO2 emissions, Average temperature, etc)",,True,unknown,https://ladataverte.fr,Environment
+OpenAQ,Open air quality data,apiKey,True,unknown,https://docs.openaq.org/,Environment
+PM2.5 Open Data Portal,Open low-cost PM2.5 sensor data,,True,unknown,https://pm25.lass-net.org/#apis,Environment
+PM25.in,Air quality of China,apiKey,False,unknown,http://www.pm25.in/api_doc,Environment
+PVWatts,Energy production photovoltaic (PV) energy systems,apiKey,True,unknown,https://developer.nrel.gov/docs/solar/pvwatts/v6/,Environment
+UK Carbon Intensity,The Official Carbon Intensity API for Great Britain developed by National Grid,,True,unknown,https://carbon-intensity.github.io/api-definitions/#carbon-intensity-api-v1-0-0,Environment
+Eventbrite,Find events,OAuth,True,unknown,https://www.eventbrite.com/developer/v3/,Events
+Picatic,Sell tickets anywhere,apiKey,True,unknown,http://developer.picatic.com/?utm_medium=web&utm_source=github&utm_campaign=public-apis%20repo&utm_content=toddmotto,Events
+SeatGeek,"Search events, venues and performers",apiKey,True,unknown,https://platform.seatgeek.com/,Events
+Ticketmaster,"Search events, attractions, or venues",apiKey,True,unknown,http://developer.ticketmaster.com/products-and-docs/apis/getting-started/,Events
+Abstract VAT Validation,Validate VAT numbers and calculate VAT rates,apiKey,True,yes,https://www.abstractapi.com/vat-validation-rates-api,Finance
+Aletheia,"Insider trading data, earnings call analysis, financial statements, and more",apiKey,True,yes,https://aletheiaapi.com/,Finance
+Alpha Vantage,Realtime and historical stock data,apiKey,True,unknown,https://www.alphavantage.co/,Finance
+apilayer marketstack,"Real-Time, Intraday & Historical Market Data API",apiKey,True,unknown,https://marketstack.com/,Finance
+Banco do Brasil,All Banco do Brasil financial transaction APIs,OAuth,True,yes,https://developers.bb.com.br/home,Finance
+Financial Modeling Prep,Realtime and historical stock data,apiKey,True,unknown,https://financialmodelingprep.com/developer/docs/,Finance
+Hotstoks,Stock market data powered by SQL,apiKey,True,yes,https://hotstoks.com?utm_source=public-apis,Finance
+IEX Cloud,Realtime & Historical Stock and Market Data,apiKey,True,yes,https://iexcloud.io/docs/api/,Finance
+IG,Spreadbetting and CFD Market Data,apiKey,True,unknown,https://labs.ig.com/gettingstarted,Finance
+Intrinio,A wide selection of financial data feeds,apiKey,True,unknown,https://intrinio.com/,Finance
+Mono,Connect with users’ bank accounts and access transaction data in Africa,apiKey,True,unknown,https://mono.co/,Finance
+Nordigen,Connect to bank accounts using official bank APIs and get raw transaction data,apiKey,True,unknown,https://nordigen.com/en/account_information_documenation/integration/quickstart_guide/,Finance
+Plaid,Connect with users’ bank accounts and access transaction data,apiKey,True,unknown,https://plaid.com/,Finance
+Polygon,Historical stock market data,apiKey,True,unknown,https://polygon.io/,Finance
+Razorpay IFSC,Indian Financial Systems Code (Bank Branch Codes),,True,unknown,https://ifsc.razorpay.com/,Finance
+Real Time Finance,Websocket API to access realtime stock data,apiKey,False,unknown,https://github.com/Real-time-finance/finance-websocket-API/,Finance
+Styvio,Realtime and historical stock data and current stock sentiment,,True,unknown,https://www.Styvio.com,Finance
+Tradier,"US equity/option market data (delayed, intraday, historical)",OAuth,True,yes,https://developer.tradier.com,Finance
+Twelve Data,Stock market data (real-time & historical),apiKey,True,unknown,https://twelvedata.com/,Finance
+YNAB,Budgeting & Planning,OAuth,True,yes,https://api.youneedabudget.com/,Finance
+Zoho Books,"Online accounting software, built for your business",OAuth,True,unknown,https://www.zoho.com/books/api/v3/,Finance
+Edamam nutrition,Nutrition Analysis,apiKey,True,unknown,https://developer.edamam.com/edamam-docs-nutrition-api,Food & Drink
+Edamam recipes,Recipe Search,apiKey,True,unknown,https://developer.edamam.com/edamam-docs-recipe-api,Food & Drink
+Foodish,Random pictures of food dishes,,True,yes,https://github.com/surhud004/Foodish#readme,Food & Drink
+LCBO,Alcohol,apiKey,True,unknown,https://lcboapi.com/,Food & Drink
+Open Brewery DB,"Breweries, Cideries and Craft Beer Bottle Shops",,True,yes,https://www.openbrewerydb.org,Food & Drink
+Open Food Facts,Food Products Database,,True,unknown,https://world.openfoodfacts.org/data,Food & Drink
+PunkAPI,Brewdog Beer Recipes,,True,unknown,https://punkapi.com/,Food & Drink
+Rustybeer,Beer brewing tools,,True,no,https://rustybeer.herokuapp.com/,Food & Drink
+Spoonacular,"Recipes, Food Products, and Meal Planning",apiKey,True,unknown,https://spoonacular.com/food-api,Food & Drink
+TacoFancy,Community-driven taco database,,False,unknown,https://github.com/evz/tacofancy-api,Food & Drink
+The Report of the Week,Food & Drink Reviews,,True,unknown,https://github.com/andyklimczak/TheReportOfTheWeek-API,Food & Drink
+TheCocktailDB,Cocktail Recipes,apiKey,True,yes,https://www.thecocktaildb.com/api.php,Food & Drink
+TheMealDB,Meal Recipes,apiKey,True,yes,https://www.themealdb.com/api.php,Food & Drink
+What's on the menu?,NYPL human-transcribed historical menu collection,apiKey,False,unknown,http://nypl.github.io/menus-api/,Food & Drink
+WhiskyHunter,Past online whisky auctions statistical data,,True,unknown,https://whiskyhunter.net/api/,Food & Drink
+Zestful,Parse recipe ingredients,apiKey,True,yes,https://zestfuldata.com/,Food & Drink
+Age of Empires II,Get information about Age of Empires II resources,,True,no,https://age-of-empires-2-api.herokuapp.com,Games & Comics
+AmiiboAPI,Nintendo Amiibo Information,,True,yes,https://amiiboapi.com/,Games & Comics
+Animal Crossing: New Horizons,"API for critters, fossils, art, music, furniture and villagers",,True,unknown,http://acnhapi.com/,Games & Comics
+Autochess VNG,Rest Api for Autochess VNG,,True,yes,https://github.com/didadadida93/autochess-vng-api,Games & Comics
+Barter.VG,"Provides information about Game, DLC, Bundles, Giveaways, Trading",,True,yes,https://github.com/bartervg/barter.vg/wiki,Games & Comics
+Board Game Geek,"Board games, RPG and videogames",,True,no,https://boardgamegeek.com/wiki/page/BGG_XML_API2,Games & Comics
+Brawl Stars,Brawl Stars Game Information,apiKey,True,unknown,https://developer.brawlstars.com,Games & Comics
+Bugsnax,Get information about Bugsnax,,True,yes,https://www.bugsnaxapi.com/,Games & Comics
+CheapShark,Steam/PC Game Prices and Deals,,True,yes,https://www.cheapshark.com/api,Games & Comics
+Chuck Norris Database,Jokes,,False,unknown,http://www.icndb.com/api/,Games & Comics
+Clash of Clans,Clash of Clans Game Information,apiKey,True,unknown,https://developer.clashofclans.com,Games & Comics
+Clash Royale,Clash Royale Game Information,apiKey,True,unknown,https://developer.clashroyale.com,Games & Comics
+Comic Vine,Comics,,True,unknown,https://comicvine.gamespot.com/api/documentation,Games & Comics
+Cross Universe,Cross Universe Card Data,,True,yes,https://crossuniverse.psychpsyo.com/apiDocs.html,Games & Comics
+Deck of Cards,Deck of Cards,,False,unknown,http://deckofcardsapi.com/,Games & Comics
+Destiny The Game,Bungie Platform API,apiKey,True,unknown,https://github.com/Bungie-net/api,Games & Comics
+Dota 2,"Provides information about Player stats , Match stats, Rankings for Dota 2",apiKey,True,unknown,https://docs.opendota.com/,Games & Comics
+Dungeons and Dragons,"Reference for 5th edition spells, classes, monsters, and more",,False,no,http://www.dnd5eapi.co/,Games & Comics
+Eve Online,Third-Party Developer Documentation,OAuth,True,unknown,https://esi.evetech.net/ui,Games & Comics
+FIFA Ultimate Team,FIFA Ultimate Team items API,,True,unknown,https://www.easports.com/fifa/ultimate-team/api/fut/item,Games & Comics
+Final Fantasy XIV,Final Fantasy XIV Game data API,,True,yes,https://xivapi.com/,Games & Comics
+Fortnite,Fortnite Stats,apiKey,True,unknown,https://fortnitetracker.com/site-api,Games & Comics
+Forza,Show random image of car from Forza,,True,unknown,https://docs.forza-api.tk,Games & Comics
+FreeToGame,Free-To-Play Games Database,,True,yes,https://www.freetogame.com/api-doc,Games & Comics
+Fun Facts,Random Fun Facts,,True,yes,https://asli-fun-fact-api.herokuapp.com/,Games & Comics
+GamerPower,Game Giveaways Tracker,,True,yes,https://www.gamerpower.com/api-read,Games & Comics
+Giant Bomb,Video Games,apiKey,True,unknown,https://www.giantbomb.com/api/documentation,Games & Comics
+Guild Wars 2,Guild Wars 2 Game Information,apiKey,True,unknown,https://wiki.guildwars2.com/wiki/API:Main,Games & Comics
+GW2Spidy,"GW2Spidy API, Items data on the Guild Wars 2 Trade Market",,True,unknown,https://github.com/rubensayshi/gw2spidy/wiki,Games & Comics
+Halo,Halo 5 and Halo Wars 2 Information,apiKey,True,unknown,https://developer.haloapi.com/,Games & Comics
+Hearthstone,Hearthstone Cards Information,X-Mashape-Key,True,unknown,http://hearthstoneapi.com/,Games & Comics
+Humble Bundle,Humble Bundle's current bundles,apiKey,True,unknown,https://rapidapi.com/Ziggoto/api/humble-bundle,Games & Comics
+Humor,"Humor, Jokes, and Memes",apiKey,True,unknown,https://humorapi.com,Games & Comics
+Hypixel,Hypixel player stats,apiKey,True,unknown,https://api.hypixel.net/,Games & Comics
+Hyrule Compendium,Data on all interactive items from The Legend of Zelda: BOTW,,True,unknown,https://github.com/gadhagod/Hyrule-Compendium-API,Games & Comics
+Hytale,Hytale blog posts and jobs,,True,unknown,https://hytale-api.com/,Games & Comics
+IGDB.com,Video Game Database,apiKey,True,unknown,https://api.igdb.com/,Games & Comics
+JokeAPI,"Programming, Miscellaneous and Dark Jokes",,True,yes,https://sv443.net/jokeapi/v2/,Games & Comics
+Jokes,Programming and general jokes,,True,unknown,https://github.com/15Dkatz/official_joke_api,Games & Comics
+Jokes One,Joke of the day and large category of jokes accessible via REST API,apiKey,True,yes,https://jokes.one/api/joke/,Games & Comics
+Jservice,Jeopardy Question Database,,False,unknown,http://jservice.io,Games & Comics
+Lichess,"Access to all data of users, games, puzzles and etc on Lichess",OAuth,True,unknown,https://lichess.org/api,Games & Comics
+Magic The Gathering,Magic The Gathering Game Information,,False,unknown,http://magicthegathering.io/,Games & Comics
+Mario Kart Tour,"API for Drivers, Karts, Gliders and Courses",OAuth,True,unknown,https://mario-kart-tour-api.herokuapp.com/,Games & Comics
+Marvel,Marvel Comics,apiKey,True,unknown,https://developer.marvel.com,Games & Comics
+MMO Games,"MMO Games Database, News and Giveaways",,True,no,https://www.mmobomb.com/api,Games & Comics
+mod.io,Cross Platform Mod API,apiKey,True,unknown,https://docs.mod.io,Games & Comics
+Open Trivia,Trivia Questions,,True,unknown,https://opentdb.com/api_config.php,Games & Comics
+PandaScore,E-sports games and results,apiKey,True,unknown,https://developers.pandascore.co/,Games & Comics
+Pokéapi,Pokémon Information,,True,unknown,https://pokeapi.co,Games & Comics
+Pokémon TCG,Pokémon TCG Information,,True,unknown,https://pokemontcg.io,Games & Comics
+Psychonauts,Psychonauts World Characters Information and PSI Powers,,True,yes,https://psychonauts-api.netlify.app/,Games & Comics
+Random Facts,Random Facts from hundreds of categories,apiKey,True,yes,https://fungenerators.com/api/facts/,Games & Comics
+RAWG.io,"500,000+ games for 50 platforms including mobiles",apiKey,True,unknown,https://rawg.io/apidocs,Games & Comics
+Rick and Morty,"All the Rick and Morty information, including images",,True,yes,https://rickandmortyapi.com,Games & Comics
+Riot Games,League of Legends Game Information,apiKey,True,unknown,https://developer.riotgames.com/,Games & Comics
+RuneScape,RuneScape and OSRS RPGs information,,True,no,https://runescape.wiki/w/Application_programming_interface,Games & Comics
+Scryfall,Magic: The Gathering database,,True,yes,https://scryfall.com/docs/api,Games & Comics
+SpaceTradersAPI,A playable inter-galactic space trading MMOAPI,OAuth,True,yes,https://spacetraders.io?rel=pub-apis,Games & Comics
+Steam,Internal Steam Web API documentation,,True,no,https://github.com/Revadike/InternalSteamWebAPI/wiki,Games & Comics
+SuperHeroes,All SuperHeroes and Villains data from all universes under a single API,apiKey,True,unknown,https://superheroapi.com,Games & Comics
+TCGdex,Multi languages Pokémon TCG Information,,True,yes,https://www.tcgdex.net/docs,Games & Comics
+Tronald Dump,The dumbest things Donald Trump has ever said,,True,unknown,https://www.tronalddump.io/,Games & Comics
+Wargaming.net,Wargaming.net info and stats,apiKey,True,no,https://developers.wargaming.net/,Games & Comics
+xkcd,Retrieve xkcd comics as JSON,,True,no,https://xkcd.com/json.html,Games & Comics
+Abstract IP Geolocation,Geolocate website visitors from their IPs,apiKey,True,yes,https://www.abstractapi.com/ip-geolocation-api,Geocoding
+adresse.data.gouv.fr,"Address database of France, geocoding and reverse",,True,unknown,https://adresse.data.gouv.fr,Geocoding
+Airtel IP,IP Geolocation API. Collecting data from multiple sources,,True,unknown,https://sys.airtel.lv/ip2country/1.1.1.1/?full=true,Geocoding
+apilayer ipstack,Locate and identify website visitors by IP address,apiKey,True,unknown,https://ipstack.com/,Geocoding
+Battuta,A (country/region/city) in-cascade location API,apiKey,False,unknown,http://battuta.medunes.net,Geocoding
+BigDataCloud,Provides fast and accurate IP geolocation APIs along with security checks and confidence area,apiKey,True,unknown,https://www.bigdatacloud.com/ip-geolocation-apis,Geocoding
+Bing Maps,Create/customize digital maps based on Bing Maps data,apiKey,True,unknown,https://www.microsoft.com/maps/,Geocoding
+bng2latlong,Convert British OSGB36 easting and northing (British National Grid) to WGS84 latitude and longitude,,True,yes,https://www.getthedata.com/bng2latlong,Geocoding
+Cartes.io,Create maps and markers for anything,,True,unknown,https://github.com/M-Media-Group/Cartes.io/wiki/API,Geocoding
+Cep.la,"Brazil RESTful API to find information about streets, zip codes, neighborhoods, cities and states",,False,unknown,http://cep.la/,Geocoding
+CitySDK,Open APIs for select European cities,,True,unknown,http://www.citysdk.eu/citysdk-toolkit/,Geocoding
+Country,Get your visitors' country from their IP,,True,yes,http://country.is/,Geocoding
+CountryStateCity,"World countries, states, regions, provinces, cities & towns in JSON, SQL, XML, YAML, & CSV format",apiKey,True,yes,https://countrystatecity.in/,Geocoding
+Daum Maps,Daum Maps provide multiple APIs for Korean maps,apiKey,False,unknown,http://apis.map.daum.net/,Geocoding
+FreeGeoIP,"Free geo ip information, no registration required. 15k/hour rate limit",,True,yes,https://freegeoip.app/,Geocoding
+GeoApi,French geographical data,,True,unknown,https://api.gouv.fr/api/geoapi.html,Geocoding
+Geoapify,"Forward and reverse geocoding, address autocomplete",apiKey,True,yes,https://www.geoapify.com/api/geocoding-api/,Geocoding
+Geocod.io,Address geocoding / reverse geocoding in bulk,apiKey,True,unknown,https://www.geocod.io/,Geocoding
+Geocode.xyz,"Provides worldwide forward/reverse geocoding, batch geocoding and geoparsing",,True,unknown,https://geocode.xyz/api,Geocoding
+Geocodify.com,"Worldwide geocoding, geoparsing and autocomplete for addresses",apiKey,True,yes,https://geocodify.com/,Geocoding
+Geocoding.ai,Provides worldwide forward / reverse geocoding,,True,yes,https://nominatim.geocoding.ai/,Geocoding
+GeoDataSource,Geocoding of city name by using latitude and longitude coordinates,apiKey,True,unknown,https://www.geodatasource.com/web-service,Geocoding
+GeoJS,IP geolocation with ChatOps integration,,True,yes,https://geojs.io/,Geocoding
+Geokeo,Geokeo geocoding service- with 2500 free api requests daily,,True,yes,https://geokeo.com,Geocoding
+GeoNames,Place names and other geographical data,,False,unknown,http://www.geonames.org/export/web-services.html,Geocoding
+geoPlugin,IP geolocation and currency conversion,,True,yes,https://www.geoplugin.com,Geocoding
+Google Earth Engine,A cloud-based platform for planetary-scale environmental data analysis,apiKey,True,unknown,https://developers.google.com/earth-engine/,Geocoding
+Google Maps,Create/customize digital maps based on Google Maps data,apiKey,True,unknown,https://developers.google.com/maps/,Geocoding
+Graph Countries,"Country-related data like currencies, languages, flags, regions+subregions and bordering countries",,True,unknown,https://github.com/lennertVanSever/graphcountries,Geocoding
+HelloSalut,Get hello translation following user language,,True,unknown,https://www.fourtonfish.com/hellosalut/hello/,Geocoding
+HERE Maps,Create/customize digital maps based on HERE Maps data,apiKey,True,unknown,https://developer.here.com,Geocoding
+Hong Kong GeoData Store,API for accessing geo-data of Hong Kong,,True,unknown,https://geodata.gov.hk/gs/,Geocoding
+IP 2 Country,Map an IP to a country,,True,unknown,https://ip2country.info,Geocoding
+IP Address Details,Find geolocation with ip address,,True,unknown,https://ipinfo.io/,Geocoding
+IP Location,Find location with ip address,,False,unknown,https://ip-api.com/docs,Geocoding
+IP Sidekick,Geolocation API that returns extra information about an IP address,apiKey,True,unknown,https://ipsidekick.com,Geocoding
+IP Vigilante,Free IP Geolocation API,,True,unknown,https://www.ipvigilante.com/,Geocoding
+IP2Location,IP geolocation web service to get more than 55 parameters,apiKey,True,unknown,https://www.ip2location.com/web-service/ip2location,Geocoding
+IP2Proxy,Detect proxy and VPN using IP address,apiKey,True,unknown,https://www.ip2location.com/web-service/ip2proxy,Geocoding
+ipapi,Real-time Geolocation & Reverse IP Lookup REST API,apiKey,True,unknown,https://ipapi.com/,Geocoding
+IPGEO,Unlimited free IP Address API with useful information,,True,unknown,https://api.techniknews.net/ipgeo/,Geocoding
+IPGeolocationAPI.com,Locate your visitors by IP with country details,,True,yes,https://ipgeolocationapi.com/,Geocoding
+IPInfoDB,"Free Geolocation tools and APIs for country, region, city and time zone lookup by IP address",apiKey,True,unknown,https://ipinfodb.com/api,Geocoding
+LocationIQ,Provides forward/reverse geocoding and batch geocoding,apiKey,True,yes,https://locationiq.org/docs/,Geocoding
+Mapbox,Create/customize beautiful digital maps,apiKey,True,unknown,https://www.mapbox.com/developers/,Geocoding
+Mexico,Mexico RESTful zip codes API,,True,unknown,https://github.com/IcaliaLabs/sepomex,Geocoding
+"One Map, Singapore",Singapore Land Authority REST API services for Singapore addresses,apiKey,True,unknown,https://docs.onemap.sg/,Geocoding
+OnWater,Determine if a lat/lon is on water or land,,True,unknown,https://onwater.io/,Geocoding
+Open Topo Data,Elevation and ocean depth for a latitude and longitude,,True,no,https://www.opentopodata.org,Geocoding
+OpenCage,Forward and reverse geocoding using open data,apiKey,True,yes,https://opencagedata.com,Geocoding
+openrouteservice.org,"Directions, POIs, isochrones, geocoding (+reverse), elevation, and more",apiKey,True,unknown,https://openrouteservice.org/,Geocoding
+OpenStreetMap,"Navigation, geolocation and geographical data",OAuth,False,unknown,http://wiki.openstreetmap.org/wiki/API,Geocoding
+positionstack,Forward & Reverse Batch Geocoding REST API,apiKey,True,unknown,https://positionstack.com/,Geocoding
+PostcodeData.nl,Provide geolocation data based on postcode for Dutch addresses,,False,unknown,http://api.postcodedata.nl/v1/postcode/?postcode=1211EP&streetnumber=60&ref=domeinnaam.nl&type=json,Geocoding
+Postcodes.io,Postcode lookup & Geolocation for the UK,,True,yes,https://postcodes.io,Geocoding
+REST Countries,Get information about countries via a RESTful API,,True,unknown,https://restcountries.com,Geocoding
+RoadGoat Cities,Cities content & photos API,apiKey,True,no,https://www.roadgoat.com/business/cities-api,Geocoding
+SpotSense,Add location based interactions to your mobile app,apiKey,True,unknown,https://www.spotsense.io,Geocoding
+Uebermaps,Discover and share maps with friends,apiKey,True,unknown,https://uebermaps.com/api/v2,Geocoding
+US ZipCode,Validate and append data for any US ZipCode,apiKey,True,yes,https://smartystreets.com/docs/cloud/us-zipcode-api,Geocoding
+Utah AGRC,Utah Web API for geocoding Utah addresses,apiKey,True,unknown,https://api.mapserv.utah.gov,Geocoding
+ViaCep,Brazil RESTful zip codes API,,True,unknown,https://viacep.com.br,Geocoding
+ZipCodeAPI,"US zip code distance, radius and location API",apiKey,True,unknown,https://www.zipcodeapi.com,Geocoding
+Zippopotam.us,"Get information about place such as country, city, state, etc",,False,unknown,http://www.zippopotam.us,Geocoding
+Ziptastic,"Get the country, state, and city of any US zip-code",,True,unknown,https://ziptasticapi.com/,Geocoding
+BCLaws,Access to the laws of British Columbia,,False,unknown,http://www.bclaws.ca/civix/template/complete/api/index.html,Government
+Brazil,Community driven API for Brazil Public Data,,True,yes,https://brasilapi.com.br/,Government
+Brazil Central Bank Open Data,Brazil Central Bank Open Data,,True,unknown,https://dadosabertos.bcb.gov.br/,Government
+Brazilian Chamber of Deputies Open Data,"Provides legislative information in Apis XML and JSON, as well as files in various formats",,True,no,https://dadosabertos.camara.leg.br/swagger/api.html,Government
+BusinessUSA,"Authoritative information on U.S. programs, events, services and more",apiKey,True,unknown,https://business.usa.gov/developer,Government
+Census.gov,The US Census Bureau provides various APIs and data sets on demographics and businesses,,True,unknown,https://www.census.gov/data/developers/data-sets.html,Government
+"City, Nantes Opendata",Nantes(FR) City Open Data,apiKey,True,unknown,https://data.nantesmetropole.fr/pages/home/,Government
+"City, New York Opendata",New York (US) City Open Data,,True,unknown,https://opendata.cityofnewyork.us/,Government
+"City, Prague Opendata",Prague(CZ) City Open Data,,False,unknown,http://opendata.praha.eu/en,Government
+Code.gov,The primary platform for Open Source and code sharing for the U.S. Federal Government,apiKey,True,unknown,https://code.gov,Government
+Colorado Information Marketplace,Colorado State Government Open Data,,True,unknown,https://data.colorado.gov/,Government
+Data USA,US Public Data,,True,unknown,https://datausa.io/about/api/,Government
+Data.gov,US Government Data,apiKey,True,unknown,https://api.data.gov/,Government
+Data.parliament.uk,"Contains live datasets including information about petitions, bills, MP votes, attendance and more",,False,unknown,https://explore.data.parliament.uk/?learnmore=Members,Government
+District of Columbia Open Data,"Contains D.C. government public datasets, including crime, GIS, financial data, and so on",,True,unknown,http://opendata.dc.gov/pages/using-apis,Government
+EPA,Web services and data sets from the US Environmental Protection Agency,,True,unknown,https://developer.epa.gov/category/apis/,Government
+FBI Wanted,Access information on the FBI Wanted program,,True,unknown,https://www.fbi.gov/wanted/api,Government
+FEC,Information on campaign donations in federal elections,apiKey,True,unknown,https://api.open.fec.gov/developers/,Government
+Federal Register,The Daily Journal of the United States Government,,True,unknown,https://www.federalregister.gov/reader-aids/developer-resources,Government
+Food Standards Agency,UK food hygiene rating data API,,False,unknown,http://ratings.food.gov.uk/open-data/en-GB,Government
+"Gazette Data, UK",UK official public record API,OAuth,True,unknown,https://www.thegazette.co.uk/data,Government
+INEI,Peruvian Statistical Government Open Data,,False,unknown,http://iinei.inei.gob.pe/microdatos/,Government
+Istanbul (İBB) Open Data,Data sets from the İstanbul Metropolitan Municipality (İBB),,True,unknown,https://data.ibb.gov.tr,Government
+"Open Government, Australia",Australian Government Open Data,,True,unknown,https://www.data.gov.au/,Government
+"Open Government, Belgium",Belgium Government Open Data,,True,unknown,https://data.gov.be/,Government
+"Open Government, Canada",Canadian Government Open Data,,False,unknown,http://open.canada.ca/en,Government
+"Open Government, Colombia",Colombia Government Open Data,,False,unknown,https://www.dane.gov.co/,Government
+"Open Government, France",French Government Open Data,apiKey,True,unknown,https://www.data.gouv.fr/,Government
+"Open Government, India",Indian Government Open Data,apiKey,True,unknown,https://data.gov.in/,Government
+"Open Government, Italy",Italy Government Open Data,,True,unknown,https://www.dati.gov.it/,Government
+"Open Government, Mexico",Mexican Statistical Government Open Data,,True,unknown,https://www.inegi.org.mx/datos/,Government
+"Open Government, New Zealand",New Zealand Government Open Data,,True,unknown,https://www.data.govt.nz/,Government
+"Open Government, Peru",Peru Government Open Data,,True,unknown,https://www.datosabiertos.gob.pe/,Government
+"Open Government, Poland",Poland Government Open Data,,True,yes,https://dane.gov.pl/en,Government
+"Open Government, Romania",Romania Government Open Data,,False,unknown,http://data.gov.ro/,Government
+"Open Government, Russia",Open Data Portal Russia,apiKey,False,unknown,https://data.gov.ru/?language=en,Government
+"Open Government, Saudi Arabia",Saudi Arabia Government Open Data,,True,unknown,https://data.gov.sa,Government
+"Open Government, Taiwan",Taiwan Government Open Data,,True,unknown,https://data.gov.tw/,Government
+"Open Government, Thailand",Thailand Government Open Data,apiKey,True,unknown,https://data.go.th/,Government
+"Open Government, UK",UK Government Open Data,,True,unknown,https://data.gov.uk/,Government
+"Open Government, USA",United States Government Open Data,,True,unknown,https://www.data.gov/,Government
+Represent by Open North,Find Canadian Government Representatives,,True,unknown,https://represent.opennorth.ca/,Government
+UK government API catalogue,APIs from UK government organisations,,True,unknown,https://alphagov.github.io/api-catalogue,Government
+USAspending.gov,US federal spending data,,True,unknown,https://api.usaspending.gov/,Government
+Coronavirus,HTTP API for Latest Wuhan Coronavirus Data,,True,unknown,https://pipedream.com/@pravin/http-api-for-latest-wuhan-coronavirus-data-2019-ncov-p_G6CLVM/readme,Health
+Coronavirus in the UK,"UK Government coronavirus data, including deaths and cases by region",,True,unknown,https://coronavirus.data.gov.uk/details/developers-guide,Health
+Covid-19,"Covid 19 cases, deaths and recovery per country",,True,yes,https://github.com/M-Media-Group/Covid-19-API,Health
+Covid-19 Government Response,Government measures tracker to fight against the Covid-19 pandemic,,True,yes,https://covidtracker.bsg.ox.ac.uk,Health
+COVID-19 Tracker Canada,Details on Covid-19 cases across Canada,,True,unknown,https://api.covid19tracker.ca/docs/1.0/overview,Health
+Dataflow Kit COVID-19,COVID-19 live statistics into sites per hour,,True,unknown,https://covid-19.dataflowkit.com,Health
+Diabetes,Logging and retrieving diabetes information,,False,unknown,http://predictbgl.com/api/,Health
+Healthcare.gov,Educational content about the US Health Insurance Marketplace,,True,unknown,https://www.healthcare.gov/developers/,Health
+LAPIS,SARS-CoV-2 genomic sequences from public sources,,True,yes,https://cov-spectrum.ethz.ch/public,Health
+Lexigram,"NLP that extracts mentions of clinical concepts from text, gives access to clinical ontology",apiKey,True,unknown,https://docs.lexigram.io/v1/welcome,Health
+Makeup,Makeup Information,,False,unknown,http://makeup-api.herokuapp.com/,Health
+Medicare,Access to the data from the CMS - medicare.gov,,True,unknown,https://data.medicare.gov/developers,Health
+NPPES,"National Plan & Provider Enumeration System, info on healthcare providers registered in US",,True,unknown,https://npiregistry.cms.hhs.gov/registry/help-api,Health
+Nutritionix,Worlds largest verified nutrition database,apiKey,True,unknown,https://developer.nutritionix.com/,Health
+Open Disease,API for Current cases and more stuff about COVID-19 and Influenza,,True,yes,https://disease.sh/,Health
+openFDA,"Public FDA data about drugs, devices and foods",,True,unknown,https://open.fda.gov,Health
+Orion Health,Medical platform which allows the development of applications for different healthcare scenarios,OAuth,True,unknown,https://developer.orionhealth.io/,Health
+Quarantine,Coronavirus API with free COVID-19 live updates,,True,yes,https://quarantine.country/coronavirus/api/,Health
+USDA Nutrients,National Nutrient Database for Standard Reference,apiKey,True,unknown,https://fdc.nal.usda.gov/,Health
+Adzuna,Job board aggregator,apiKey,True,unknown,https://developer.adzuna.com/overview,Jobs
+Careerjet,Job search engine,apiKey,False,unknown,https://www.careerjet.com/partners/api/,Jobs
+DevITjobs UK,Jobs with GraphQL,,True,yes,https://devitjobs.uk/job_feed.xml,Jobs
+Findwork,Job board,apiKey,True,unknown,https://findwork.dev/developers/,Jobs
+GraphQL Jobs,Jobs with GraphQL,,True,yes,https://graphql.jobs/docs/api/,Jobs
+Jobs2Careers,Job aggregator,apiKey,True,unknown,http://api.jobs2careers.com/api/spec.pdf,Jobs
+Jooble,Job search engine,apiKey,True,unknown,https://us.jooble.org/api/about,Jobs
+Juju,Job search engine,apiKey,False,unknown,http://www.juju.com/publisher/spec/,Jobs
+Open Skills,"Job titles, skills and related jobs data",,False,unknown,https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview,Jobs
+Reed,Job board aggregator,apiKey,True,unknown,https://www.reed.co.uk/developers,Jobs
+The Muse,Job board and company profiles,apiKey,True,unknown,https://www.themuse.com/developers/api/v2,Jobs
+Upwork,Freelance job board and management system,OAuth,True,unknown,https://developers.upwork.com/,Jobs
+USAJOBS,US government job board,apiKey,True,unknown,https://developer.usajobs.gov/,Jobs
+ZipRecruiter,Job search app and website,apiKey,True,unknown,https://www.ziprecruiter.com/publishers,Jobs
+AI For Thai,Free Various Thai AI API,apiKey,True,yes,https://aiforthai.in.th/index.php,Machine Learning
+Clarifai,Computer Vision,OAuth,True,unknown,https://docs.clarifai.com,Machine Learning
+Cloudmersive,"Image captioning, face recognition, NSFW classification",apiKey,True,yes,https://www.cloudmersive.com/image-recognition-and-processing-api,Machine Learning
+Deepcode,AI for code review,,True,unknown,https://www.deepcode.ai,Machine Learning
+Dialogflow,Natural Language Processing,apiKey,True,unknown,https://dialogflow.com,Machine Learning
+EXUDE-API,"Used for the primary ways for filtering the stopping, stemming words from the text data",,True,yes,http://uttesh.com/exude-api/,Machine Learning
+IPS Online,Face and License Plate Anonymization,apiKey,True,unknown,https://docs.identity.ps/docs,Machine Learning
+Irisnet,Realtime content moderation API that blocks or blurs unwanted images in real-time,apiKey,True,yes,https://irisnet.de/api/,Machine Learning
+Keen IO,Data Analytics,apiKey,True,unknown,https://keen.io/,Machine Learning
+NLP Cloud,"NLP API using spaCy and transformers for NER, sentiments, classification, summarization, and more",apiKey,True,unknown,https://nlpcloud.io,Machine Learning
+OpenVisionAPI,Open source computer vision API based on open source models,,True,yes,https://openvisionapi.com,Machine Learning
+Perspective,"NLP API to return probability that if text is toxic, obscene, insulting or threatening",apiKey,True,unknown,https://perspectiveapi.com,Machine Learning
+Roboflow Universe,Pre-trained computer vision models,apiKey,True,yes,https://universe.roboflow.com,Machine Learning
+Time Door,A time series analysis API,apiKey,True,yes,https://timedoor.io,Machine Learning
+Unplugg,Forecasting API for timeseries data,apiKey,True,unknown,https://unplu.gg/test_api.html,Machine Learning
+Wit.ai,Natural Language Processing,OAuth,True,unknown,https://wit.ai/,Machine Learning
+7digital,Api of Music store 7digital,OAuth,True,unknown,https://docs.7digital.com/reference,Music
+AI Mastering,Automated Music Mastering,apiKey,True,yes,https://aimastering.com/api_docs/,Music
+Apple Music,Official API of the music streaming site Apple Music,apiKey,True,unknown,https://developer.apple.com/documentation/applemusicapi/,Music
+Audiomack,Api of the streaming music hub Audiomack,OAuth,True,unknown,https://www.audiomack.com/data-api/docs,Music
+Bandcamp,API of Music store Bandcamp,OAuth,True,unknown,https://bandcamp.com/developer,Music
+Bandsintown,Music Events,,True,unknown,https://app.swaggerhub.com/apis/Bandsintown/PublicAPI/3.0.0,Music
+Deezer,Music,OAuth,True,unknown,https://developers.deezer.com/api,Music
+Discogs,Music,OAuth,True,unknown,https://www.discogs.com/developers/,Music
+Freesound,Music Samples,apiKey,True,unknown,https://freesound.org/docs/api/,Music
+Genius,Crowdsourced lyrics and music knowledge,OAuth,True,unknown,https://docs.genius.com/,Music
+Genrenator,Music genre generator,,True,unknown,https://binaryjazz.us/genrenator-api/,Music
+iTunes Search,Software products,,True,unknown,https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/,Music
+Jamendo,Music,OAuth,True,unknown,https://developer.jamendo.com/v3.0/docs,Music
+JioSaavn,"API to retrieve song information, album meta data and many more from JioSaavn",,True,unknown,https://github.com/cyberboysumanjay/JioSaavnAPI,Music
+KKBOX,"Get music libraries, playlists, charts, and perform out of KKBOX's platform",OAuth,True,unknown,https://developer.kkbox.com,Music
+KSoft.Si Lyrics,API to get lyrics for songs,apiKey,True,unknown,https://docs.ksoft.si/api/lyrics-api,Music
+LastFm,Music,apiKey,True,unknown,https://www.last.fm/api,Music
+Lyrics.ovh,Simple API to retrieve the lyrics of a song,,True,unknown,http://docs.lyricsovh.apiary.io/,Music
+Mixcloud,Music,OAuth,True,yes,https://www.mixcloud.com/developers/,Music
+MusicBrainz,Music,,True,unknown,https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2,Music
+Musixmatch,Music,apiKey,True,unknown,https://developer.musixmatch.com/,Music
+Openwhyd,"Download curated playlists of streaming tracks (YouTube, SoundCloud, etc...)",,True,no,https://openwhyd.github.io/openwhyd/API,Music
+Songkick,Music Events,OAuth,True,unknown,https://www.songkick.com/developer/,Music
+Songsterr,"Provides guitar, bass and drums tabs and chords",,True,unknown,https://www.songsterr.com/a/wa/api/,Music
+Spotify,"View Spotify music catalog, manage users' libraries, get recommendations and more",OAuth,True,unknown,https://beta.developer.spotify.com/documentation/web-api/,Music
+TasteDive,Similar artist API (also works for movies and TV shows),apiKey,True,unknown,https://tastedive.com/read/api,Music
+TheAudioDB,Music,apiKey,True,unknown,https://www.theaudiodb.com/api_guide.php,Music
+Vagalume,Crowdsourced lyrics and music knowledge,apiKey,True,unknown,https://api.vagalume.com.br/docs/,Music
+apilayer mediastack,"Free, Simple REST API for Live News & Blog Articles",apiKey,True,unknown,https://mediastack.com/,News
+Associated Press,Search for news and metadata from Associated Press,apiKey,True,unknown,https://developer.ap.org/,News
+Chronicling America,Provides access to millions of pages of historic US newspapers from the Library of Congress,,False,unknown,http://chroniclingamerica.loc.gov/about/api/,News
+Currents,"Latest news published in various news sources, blogs and forums",apiKey,True,yes,https://currentsapi.services/,News
+Feedbin,RSS reader,OAuth,True,unknown,https://github.com/feedbin/feedbin-api,News
+GNews,Search for news from various sources,apiKey,True,yes,https://gnews.io/,News
+Graphs for Coronavirus,Each Country separately and Worldwide Graphs for Coronavirus. Daily updates,,True,yes,https://corona.dnsforfamily.com/api.txt,News
+Inshorts News,Provides news from inshorts,,True,unknown,https://github.com/cyberboysumanjay/Inshorts-News-API,News
+New York Times,Provides news,apiKey,True,unknown,https://developer.nytimes.com/,News
+News,Headlines currently published on a range of news sources and blogs,apiKey,True,unknown,https://newsapi.org/,News
+NPR One,Personalized news listening experience from NPR,OAuth,True,unknown,http://dev.npr.org/api/,News
+Spaceflight News,Spaceflight related news 🚀,,True,yes,https://spaceflightnewsapi.net,News
+The Guardian,"Access all the content the Guardian creates, categorised by tags and section",apiKey,True,unknown,http://open-platform.theguardian.com/,News
+The Old Reader,RSS reader,apiKey,True,unknown,https://github.com/theoldreader/api,News
+18F,Unofficial US Federal Government API Development,,False,unknown,http://18f.github.io/API-All-the-X/,Open Data
+Archive.org,The Internet Archive,,True,unknown,https://archive.readme.io/docs,Open Data
+Callook.info,United States ham radio callsigns,,True,unknown,https://callook.info,Open Data
+CARTO,Location Information Prediction,apiKey,True,unknown,https://carto.com/,Open Data
+CivicFeed,News articles and public datasets,apiKey,True,unknown,https://developers.civicfeed.com/,Open Data
+Enigma Public,Broadest collection of public data,apiKey,True,yes,http://docs.enigma.com/public/public_v20_api_about,Open Data
+French Address Search,Address search via the French Government,,True,unknown,https://geo.api.gouv.fr/adresse,Open Data
+Kaggle,"Create and interact with Datasets, Notebooks, and connect with Kaggle",apiKey,True,unknown,https://www.kaggle.com/docs/api,Open Data
+LinkPreview,"Get JSON formatted summary with title, description and preview image for any requested URL",apiKey,True,yes,https://www.linkpreview.net,Open Data
+Microlink.io,Extract structured data from any website,,True,yes,https://microlink.io,Open Data
+openAFRICA,Large datasets repository of African open data,,True,unknown,https://africaopendata.org/,Open Data
+OpenCorporates,Data on corporate entities and directors in many countries,apiKey,True,unknown,http://api.opencorporates.com/documentation/API-Reference,Open Data
+Quandl,Stock Market Data,,True,unknown,https://www.quandl.com/,Open Data
+Recreation Information Database,"Recreational areas, federal lands, historic sites, museums, and other attractions/resources(US)",apiKey,True,unknown,https://ridb.recreation.gov/,Open Data
+Scoop.it,Content Curation Service,apiKey,False,unknown,http://www.scoop.it/dev,Open Data
+Socrata,"Access to Open Data from Governments, Non-profits and NGOs around the world",OAuth,True,yes,https://dev.socrata.com/,Open Data
+Teleport,Quality of Life Data,,True,unknown,https://developers.teleport.org/,Open Data
+Universities List,"University names, countries and domains",,True,unknown,https://github.com/Hipo/university-domains-list,Open Data
+University of Oslo,"Courses, lecture videos, detailed information for courses etc. for the University of Oslo (Norway)",,True,unknown,https://data.uio.no/,Open Data
+UPC database,More than 1.5 million barcode numbers from all around the world,apiKey,True,unknown,https://upcdatabase.org/api,Open Data
+Wikidata,Collaboratively edited knowledge base operated by the Wikimedia Foundation,OAuth,True,unknown,https://www.wikidata.org/w/api.php?action=help,Open Data
+Wikipedia,Mediawiki Encyclopedia,,True,unknown,https://www.mediawiki.org/wiki/API:Main_page,Open Data
+Yelp,Find Local Business,OAuth,True,unknown,https://www.yelp.com/developers/documentation/v3,Open Data
+Countly,Countly web analytics,,False,unknown,https://api.count.ly/reference,Open Source Projects
+Creative Commons Catalog,Search among openly licensed and public domain works,OAuth,True,yes,https://api.creativecommons.engineering/,Open Source Projects
+Datamuse,Word-finding query engine,,True,unknown,https://www.datamuse.com/api/,Open Source Projects
+Drupal.org,Drupal.org,,True,unknown,https://www.drupal.org/drupalorg/docs/api,Open Source Projects
+Evil Insult Generator,Evil Insults,,True,yes,https://evilinsult.com/api,Open Source Projects
+EPO,European patent search system api,OAuth,True,unknown,https://developers.epo.org/,Patent
+TIPO,Taiwan patent search system api,apiKey,True,unknown,https://tiponet.tipo.gov.tw/Gazette/OpenData/OD/OD05.aspx?QryDS=API00,Patent
+USPTO,USA patent api services,,True,unknown,https://www.uspto.gov/learning-and-resources/open-data-and-mobility,Patent
+Advice Slip,Generate random advice slips,,True,unknown,http://api.adviceslip.com/,Personality
+Affirmations,Generate Stuart Smalley Affirmations,,True,unknown,https://affirmations.dev/,Personality
+Biriyani As A Service,Biriyani images placeholder,,True,no,https://biriyani.anoram.com/,Personality
+chucknorris.io,JSON API for hand curated Chuck Norris jokes,,True,unknown,https://api.chucknorris.io,Personality
+Dictum,API to get access to the collection of the most inspiring expressions of mankind,,True,unknown,https://github.com/fisenkodv/dictum,Personality
+FavQs.com,"FavQs allows you to collect, discover and share your favorite quotes",apiKey,True,unknown,https://favqs.com/api,Personality
+FOAAS,Fuck Off As A Service,,False,unknown,http://www.foaas.com/,Personality
+Forismatic,Inspirational Quotes,,False,unknown,http://forismatic.com/en/api/,Personality
+icanhazdadjoke,The largest selection of dad jokes on the internet,,True,unknown,https://icanhazdadjoke.com/api,Personality
+Imgflip,Gets an array of popular memes,,True,unknown,https://imgflip.com/api,Personality
+Inspiration,Motivational and Inspirational quotes,,True,yes,https://inspiration.goprogram.ai/docs/,Personality
+kanye.rest,REST API for random Kanye West quotes,,True,yes,https://kanye.rest,Personality
+Medium,Community of readers and writers offering unique perspectives on ideas,OAuth,True,unknown,https://github.com/Medium/medium-api-docs,Personality
+NaMoMemes,Memes on Narendra Modi,,True,unknown,https://github.com/theIYD/NaMoMemes,Personality
+Programming Quotes,Programming Quotes API for open source projects,,True,unknown,https://github.com/skolakoda/programming-quotes-api,Personality
+Quotable Quotes,"Quotable is a free, open source quotations API",,True,unknown,https://github.com/lukePeavey/quotable,Personality
+Quote Garden,REST API for more than 5000 famous quotes,,True,unknown,https://pprathameshmore.github.io/QuoteGarden/,Personality
+quoteclear,Ever-growing list of James Clear quotes from the 3-2-1 Newsletter,,True,yes,https://quoteclear.web.app/,Personality
+Quotes on Design,Inspirational Quotes,,True,unknown,https://quotesondesign.com/api/,Personality
+Stoicism Quote,Quotes about Stoicism,,True,unknown,https://github.com/tlcheah2/stoic-quote-lambda-public-api,Personality
+Traitify,"Assess, collect and analyze Personality",,True,unknown,https://app.traitify.com/developer,Personality
+Vadivelu HTTP Codes,On demand HTTP Codes with images,,True,no,https://vadivelu.anoram.com/,Personality
+Yo Momma Jokes,REST API for Yo Momma Jokes,,True,unknown,https://github.com/beanboi7/yomomma-apiv2,Personality
+Abstract Phone Validation,Validate phone numbers globally,apiKey,True,yes,https://www.abstractapi.com/phone-validation-api,Phone
+apilayer numverify,Phone number validation,apiKey,True,unknown,https://numverify.com,Phone
+Phone Specification,Rest Api for Phone specifications,,True,yes,https://github.com/azharimm/phone-specs-api,Phone
+apilayer screenshotlayer,URL 2 Image,,True,unknown,https://screenshotlayer.com,Photography
+Dagpi,Image manipulation and processing,apiKey,True,unknown,https://dagpi.xyz,Photography
+Flickr,Flickr Services,OAuth,True,unknown,https://www.flickr.com/services/api/,Photography
+Getty Images,Build applications using the world's most powerful imagery,OAuth,True,unknown,http://developers.gettyimages.com/en/,Photography
+Gfycat,Jiffier GIFs,OAuth,True,unknown,https://developers.gfycat.com/api/,Photography
+Giphy,Get all your gifs,apiKey,True,unknown,https://developers.giphy.com/docs/,Photography
+Gyazo,Upload images,apiKey,True,unknown,https://gyazo.com/api/docs,Photography
+Imgur,Images,OAuth,True,unknown,https://apidocs.imgur.com/,Photography
+Lorem Picsum,Images from Unsplash,,True,unknown,https://picsum.photos/,Photography
+ObjectCut,Image Background removal,apiKey,True,yes,https://objectcut.com/,Photography
+Pexels,Free Stock Photos and Videos,apiKey,True,yes,https://www.pexels.com/api/,Photography
+Pixabay,Photography,apiKey,True,unknown,https://pixabay.com/sk/service/about/api/,Photography
+PlaceKitten,Resizable kitten placeholder images,,True,unknown,https://placekitten.com/,Photography
+ReSmush.it,Photo optimization,,False,unknown,https://resmush.it/api,Photography
+Unsplash,Photography,OAuth,True,unknown,https://unsplash.com/developers,Photography
+Wallhaven,Wallpapers,apiKey,True,unknown,https://wallhaven.cc/help/api,Photography
+arcsecond.io,Multiple astronomy data sources,,True,unknown,https://api.arcsecond.io/,Science & Math
+arXiv,"Curated research-sharing platform: physics, mathematics, quantitative finance, and economics",,True,unknown,https://arxiv.org/help/api/user-manual,Science & Math
+CORE,Access the world's Open Access research papers,apiKey,True,unknown,https://core.ac.uk/services#api,Science & Math
+GBIF,Global Biodiversity Information Facility,,True,yes,https://www.gbif.org/developer/summary,Science & Math
+iDigBio,Access millions of museum specimens from organizations around the world,,True,unknown,https://github.com/idigbio/idigbio-search-api/wiki,Science & Math
+inspirehep.net,High Energy Physics info. system,,True,unknown,https://github.com/inspirehep/rest-api-doc,Science & Math
+isEven (humor),Check if a number is even,,True,unknown,https://isevenapi.xyz/,Science & Math
+ISRO,ISRO Space Crafts Information,,True,unknown,https://isro.vercel.app,Science & Math
+ITIS,Integrated Taxonomic Information System,,True,unknown,https://www.itis.gov/ws_description.html,Science & Math
+Launch Library 2,Spaceflight launches and events database,,True,yes,https://thespacedevs.com/llapi,Science & Math
+Materials Platform for Data Science,Curated experimental data for materials science,apiKey,True,no,https://mpds.io,Science & Math
+Minor Planet Center,Asterank.com Information,,False,unknown,http://www.asterank.com/mpc,Science & Math
+NASA,"NASA data, including imagery",,True,unknown,https://api.nasa.gov,Science & Math
+NASA APOD (official API),Official API for getting APOD (Astronomy Image of the Day) images along with metadata,apiKey,True,yes,https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY,Science & Math
+NASA APOD (unofficial API),API for getting APOD (Astronomy Image of the Day) images along with metadata,,True,yes,https://apodapi.herokuapp.com/,Science & Math
+Newton,Symbolic and Arithmetic Math Calculator,,True,unknown,https://newton.vercel.app,Science & Math
+Numbers,Facts about numbers,,False,unknown,http://numbersapi.com,Science & Math
+Open Notify,"ISS astronauts, current location, etc",,False,unknown,http://open-notify.org/Open-Notify-API/,Science & Math
+Open Science Framework,"Repository and archive for study designs, research materials, data, manuscripts, etc",,True,unknown,https://developer.osf.io,Science & Math
+Purple Air,Real Time Air Quality Monitoring,,True,unknown,https://www2.purpleair.com/,Science & Math
+Satellite Passes,Query next satellite passes above you,,True,yes,https://satellites.fly.dev,Science & Math
+SHARE,"A free, open, dataset about research and scholarly activities",,True,unknown,https://share.osf.io/api/v2/,Science & Math
+SpaceX,"Company, vehicle, launchpad and launch data",,True,unknown,https://github.com/r-spacex/SpaceX-API,Science & Math
+Sunrise and Sunset,Sunset and sunrise times for a given latitude and longitude,,True,unknown,https://sunrise-sunset.org/api,Science & Math
+USGS Earthquake Hazards Program,Earthquakes data real-time,,True,unknown,https://earthquake.usgs.gov/fdsnws/event/1/,Science & Math
+USGS Water Services,Water quality and level info for rivers and lakes,,True,unknown,https://waterservices.usgs.gov/,Science & Math
+World Bank,World Data,,False,unknown,https://datahelpdesk.worldbank.org/knowledgebase/topics/125589,Science & Math
+botd,Botd is a browser library for JavaScript bot detection,apiKey,True,yes,https://github.com/fingerprintjs/botd,Security
+Censys.io,Search engine for Internet connected host and devices,apiKey,True,no,https://censys.io/api,Security
+CRXcavator,Chrome extension risk scoring,apiKey,True,unknown,https://crxcavator.io/apidocs,Security
+Escape,An API for escaping different kind of queries,,True,no,https://github.com/polarspetroll/EscapeAPI,Security
+FilterLists,Lists of filters for adblockers and firewalls,,True,unknown,https://filterlists.com,Security
+FingerprintJS Pro,Fraud detection API offering highly accurate browser fingerprinting,apiKey,True,yes,https://dev.fingerprintjs.com/docs,Security
+FraudLabs Pro,Screen order information using AI to detect frauds,apiKey,True,unknown,https://www.fraudlabspro.com/developer/api/screen-order,Security
+GitGuardian,"Scan files for secrets (API Keys, database credentials, ...)",apiKey,True,no,https://api.gitguardian.com/doc,Security
+HackerOne,The industry’s first hacker API that helps increase productivity towards creative bug bounty hunting,apiKey,True,unknown,https://api.hackerone.com/,Security
+HaveIBeenPwned,Passwords which have previously been exposed in data breaches,apiKey,True,unknown,https://haveibeenpwned.com/API/v3,Security
+Intelligence X,Perform OSINT via Intelligence X,apiKey,True,unknown,https://github.com/IntelligenceX/SDK/blob/master/Intelligence%20X%20API.pdf,Security
+LoginRadius,Managed User Authentication Service,apiKey,True,yes,https://www.loginradius.com/docs/,Security
+Mozilla http scanner,Mozilla observatory http scanner,,True,unknown,https://github.com/mozilla/http-observatory/blob/master/httpobs/docs/api.md,Security
+Mozilla tls scanner,Mozilla observatory tls scanner,,True,unknown,https://github.com/mozilla/tls-observatory#api-endpoints,Security
+National Vulnerability Database,U.S. National Vulnerability Database,,True,unknown,https://nvd.nist.gov/vuln/Data-Feeds/JSON-feed-changelog,Security
+Passwordinator,Generate random passwords of varying complexities,,True,yes,https://github.com/fawazsullia/password-generator/,Security
+PhishStats,Phishing database,,True,unknown,https://phishstats.info/,Security
+Pulsedive,"Scan, search and collect threat intelligence data in real-time",apiKey,True,unknown,https://pulsedive.com/api/,Security
+SecurityTrails,Domain and IP related information such as current and historical WHOIS and DNS records,apiKey,True,unknown,https://securitytrails.com/corp/apidocs,Security
+Shodan,Search engine for Internet connected devices,apiKey,True,unknown,https://developer.shodan.io/,Security
+UK Police,UK Police data,,True,unknown,https://data.police.uk/docs/,Security
+Virushee,Virushee file/data scanning,,True,yes,https://api.virushee.com/,Security
+Best Buy,"Products, Buying Options, Categories, Recommendations, Stores and Commerce",apiKey,True,unknown,https://bestbuyapis.github.io/api-documentation/#overview,Shopping
+Dummy Products,An api to fetch dummy e-commerce products JSON data with placeholder images,apiKey,True,yes,https://dummyproducts-api.herokuapp.com/,Shopping
+eBay,Sell and Buy on eBay,OAuth,True,unknown,https://go.developer.ebay.com/,Shopping
+Etsy,Manage shop and interact with listings,OAuth,True,unknown,https://www.etsy.com/developers/documentation/getting_started/api_basics,Shopping
+Wegmans,Wegmans Food Markets,apiKey,True,unknown,https://dev.wegmans.io,Shopping
+4chan,Simple image-based bulletin board dedicated to a variety of topics,,True,yes,https://github.com/4chan/4chan-API,Social
+Ayrshare,"Social media APIs to post, get analytics, and manage multiple users social media accounts",apiKey,True,yes,https://www.ayrshare.com,Social
+Buffer,Access to pending and sent updates in Buffer,OAuth,True,unknown,https://buffer.com/developers/api,Social
+Cisco Spark,Team Collaboration Software,OAuth,True,unknown,https://developer.ciscospark.com,Social
+Discord,"Make bots for Discord, integrate Discord onto an external platform",OAuth,True,unknown,https://discord.com/developers/docs/intro,Social
+Disqus,Communicate with Disqus data,OAuth,True,unknown,https://disqus.com/api/docs/auth/,Social
+Doge-Meme,Top meme posts from r/dogecoin which include 'Meme' flair,,True,yes,https://api.doge-meme.lol/docs,Social
+Facebook,"Facebook Login, Share on FB, Social Plugins, Analytics and more",OAuth,True,unknown,https://developers.facebook.com/,Social
+Foursquare,"Interact with Foursquare users and places (geolocation-based checkins, photos, tips, events, etc)",OAuth,True,unknown,https://developer.foursquare.com/,Social
+Fuck Off as a Service,Asks someone to fuck off,,True,unknown,https://www.foaas.com,Social
+Full Contact,Get Social Media profiles and contact Information,OAuth,True,unknown,https://www.fullcontact.com/developer/docs/,Social
+HackerNews,Social news for CS and entrepreneurship,,True,unknown,https://github.com/HackerNews/API,Social
+Instagram,"Instagram Login, Share on Instagram, Social Plugins and more",OAuth,True,unknown,https://www.instagram.com/developer/,Social
+LinkedIn,The foundation of all digital integrations with LinkedIn,OAuth,True,unknown,https://docs.microsoft.com/en-us/linkedin/?context=linkedin/context,Social
+Meetup.com,Data about Meetups from Meetup.com,apiKey,True,unknown,https://www.meetup.com/meetup_api/,Social
+MySocialApp,"Seamless Social Networking features, API, SDK to any app",apiKey,True,unknown,https://mysocialapp.io,Social
+Open Collective,Get Open Collective data,,True,unknown,https://docs.opencollective.com/help/developers/api,Social
+Pinterest,The world's catalog of ideas,OAuth,True,unknown,https://developers.pinterest.com/,Social
+Reddit,Homepage of the internet,OAuth,True,unknown,https://www.reddit.com/dev/api,Social
+Saidit,Open Source Reddit Clone,OAuth,True,unknown,https://www.saidit.net/dev/api,Social
+Slack,Team Instant Messaging,OAuth,True,unknown,https://api.slack.com/,Social
+Telegram Bot,Simplified HTTP version of the MTProto API for bots,apiKey,True,unknown,https://core.telegram.org/bots/api,Social
+Telegram MTProto,Read and write Telegram data,OAuth,True,unknown,https://core.telegram.org/api#getting-started,Social
+Trash Nothing,A freecycling community with thousands of free items posted every day,OAuth,True,yes,https://trashnothing.com/developer,Social
+Tumblr,Read and write Tumblr Data,OAuth,True,unknown,https://www.tumblr.com/docs/en/api/v2,Social
+Twitch,Game Streaming API,OAuth,True,unknown,https://dev.twitch.tv/docs,Social
+Twitter,Read and write Twitter data,OAuth,True,no,https://developer.twitter.com/en/docs,Social
+vk,Read and write vk data,OAuth,True,unknown,https://vk.com/dev/sites,Social
+balldontlie,Balldontlie provides access to stats data from the NBA,,True,yes,https://balldontlie.io,Sports & Fitness
+Canadian Football League (CFL),"Official JSON API providing real-time league, team and player statistics about the CFL",apiKey,True,no,http://api.cfl.ca/,Sports & Fitness
+City Bikes,City Bikes around the world,,True,unknown,https://api.citybik.es/v2/,Sports & Fitness
+Cloudbet,Official Cloudbet API provides real-time sports odds and betting API to place bets programmatically,apiKey,True,yes,https://www.cloudbet.com/api/,Sports & Fitness
+Ergast F1,F1 data from the beginning of the world championships in 1950,,True,unknown,http://ergast.com/mrd/,Sports & Fitness
+Fitbit,Fitbit Information,OAuth,True,unknown,https://dev.fitbit.com/,Sports & Fitness
+Football (Soccer) Videos,"Embed codes for goals and highlights from Premier League, Bundesliga, Serie A and many more",,True,yes,https://www.scorebat.com/video-api/,Sports & Fitness
+Football Prediction,"Predictions for upcoming football matches, odds, results and stats",X-Mashape-Key,True,unknown,https://boggio-analytics.com/fp-api/,Sports & Fitness
+Football Standings,"Display football standings e.g epl, la liga, serie a etc. The data is based on espn site",,True,yes,https://github.com/azharimm/football-standings-api,Sports & Fitness
+Football-Data,"Football data with matches info, players, teams, and competitions",X-Mashape-Key,True,unknown,https://www.football-data.org,Sports & Fitness
+JCDecaux Bike,JCDecaux's self-service bicycles,apiKey,True,unknown,https://developer.jcdecaux.com/,Sports & Fitness
+MLB Records and Stats,Current and historical MLB statistics,,False,unknown,https://appac.github.io/mlb-data-api-docs/,Sports & Fitness
+NBA Stats,Current and historical NBA Statistics,,True,unknown,https://any-api.com/nba_com/nba_com/docs/API_Description,Sports & Fitness
+NHL Records and Stats,NHL historical data and statistics,,True,unknown,https://gitlab.com/dword4/nhlapi,Sports & Fitness
+Oddsmagnet,Odds history from multiple UK bookmakers,,True,yes,https://data.oddsmagnet.com,Sports & Fitness
+Sport List & Data,List of and resources related to sports,,True,yes,https://developers.decathlon.com/products/sports,Sports & Fitness
+Sport Places,Crowd-source sports places around the world,,True,no,https://developers.decathlon.com/products/sport-places,Sports & Fitness
+Sport Vision,"Identify sport, brands and gear in an image. Also does image sports captioning",apiKey,True,yes,https://developers.decathlon.com/products/sport-vision,Sports & Fitness
+Strava,"Connect with athletes, activities and more",OAuth,True,unknown,https://strava.github.io/api/,Sports & Fitness
+SuredBits,"Query sports data, including teams, players, games, scores and statistics",,False,no,https://suredbits.com/api/,Sports & Fitness
+TheSportsDB,Crowd-Sourced Sports Data and Artwork,apiKey,True,yes,https://www.thesportsdb.com/api.php,Sports & Fitness
+Tredict,"Get and set activities, health data and more",OAuth,True,unknown,https://www.tredict.com/blog/oauth_docs/,Sports & Fitness
+Wger,"Workout manager data as exercises, muscles or equipment",apiKey,True,unknown,https://wger.de/en/software/api,Sports & Fitness
+Bacon Ipsum,A Meatier Lorem Ipsum Generator,,True,unknown,https://baconipsum.com/json-api/,Test Data
+Dicebear Avatars,Generate random pixel-art avatars,,True,no,https://avatars.dicebear.com/,Test Data
+FakeJSON,Service to generate test and fake data,apiKey,True,yes,https://fakejson.com,Test Data
+FakerAPI,APIs collection to get fake data,,True,yes,https://fakerapi.it/en,Test Data
+JSONPlaceholder,Fake data for testing and prototyping,,False,unknown,http://jsonplaceholder.typicode.com/,Test Data
+Loripsum,"The ""lorem ipsum"" generator that doesn't suck",,False,unknown,http://loripsum.net/,Test Data
+Mailsac,Disposable Email,apiKey,True,unknown,https://mailsac.com/docs/api,Test Data
+PIPL,Free and public API that generates random and fake people's data in JSON,,True,no,https://pipl.ir/,Test Data
+QuickMocker,"API mocking tool to generate contextual, fake or random data",,True,yes,https://quickmocker.com,Test Data
+Randommer,Random data generator,apiKey,True,yes,https://randommer.io/randommer-api,Test Data
+RandomUser,Generates and list user data,,True,unknown,https://randomuser.me,Test Data
+RoboHash,Generate random robot/alien avatars,,True,unknown,https://robohash.org/,Test Data
+Spanish random words,Generate spanish words randomly,,True,unknown,https://palabras-aleatorias-public-api.herokuapp.com,Test Data
+This Person Does not Exist,Generates real-life faces of people who do not exist,,True,unknown,https://thispersondoesnotexist.com,Test Data
+UUID Generator,Generate UUIDs,,True,no,https://www.uuidtools.com/docs,Test Data
+Yes No,Generate yes or no randomly,,True,unknown,https://yesno.wtf/api,Test Data
+apilayer languagelayer,Language Detection JSON API supporting 173 languages,OAuth,True,unknown,https://languagelayer.com/,Text Analysis
+Aylien Text Analysis,A collection of information retrieval and natural language APIs,apiKey,True,unknown,https://docs.aylien.com/textapi/#getting-started,Text Analysis
+Cloudmersive Natural Language Processing,Natural language processing and text analysis,apiKey,True,yes,https://www.cloudmersive.com/nlp-api,Text Analysis
+Detect Language,Detects text language,apiKey,True,unknown,https://detectlanguage.com/,Text Analysis
+Google Cloud Natural,"Natural language understanding technology, including sentiment, entity and syntax analysis",apiKey,True,unknown,https://cloud.google.com/natural-language/docs/,Text Analysis
+LibreTranslate,Translation tool with 17 available languages,,True,unknown,https://libretranslate.de/docs,Text Analysis
+Semantria,"Text Analytics with sentiment analysis, categorization & named entity extraction",OAuth,True,unknown,https://semantria.readme.io/docs,Text Analysis
+Sentiment Analysis,Multilingual sentiment analysis of texts from different sources,apiKey,True,yes,https://www.meaningcloud.com/developer/sentiment-analysis,Text Analysis
+Sentium,Free API for Text Sentimental analysis,,True,unknown,https://sentim-api.herokuapp.com/,Text Analysis
+Tisane,Text Analytics with focus on detection of abusive content and law enforcement applications,OAuth,True,yes,https://tisane.ai/,Text Analysis
+Watson Natural Language Understanding,Natural language processing for advanced text analysis,OAuth,True,unknown,https://cloud.ibm.com/apidocs/natural-language-understanding/natural-language-understanding,Text Analysis
+Pixela,"API for recording and tracking habits or effort, routines",X-Mashape-Key,True,yes,https://pixe.la,Tracking
+Postmon,"An API to query Brazilian ZIP codes and orders easily, quickly and free",,False,unknown,http://postmon.com.br,Tracking
+Sweden,Provides information about parcels in transport,apiKey,False,unknown,https://developer.postnord.com/docs2,Tracking
+UPS,Shipment and Address information,apiKey,True,unknown,https://www.ups.com/upsdeveloperkit,Tracking
+WeCanTrack,Automatically place subids in affiliate links to attribute affiliate conversions to click data,apiKey,True,yes,https://docs.wecantrack.com,Tracking
+WhatPulse,Small application that measures your keyboard/mouse usage,,True,unknown,https://whatpulse.org/pages/webapi/,Tracking
+ADS-B Exchange,Access real-time and historical data of any and all airborne aircraft,,True,unknown,https://www.adsbexchange.com/data/,Transportation
+AIS Hub,Real-time data of any marine and inland vessel equipped with AIS tracking system,apiKey,False,unknown,http://www.aishub.net/api,Transportation
+Amadeus for Developers,Travel Search - Limited usage,OAuth,True,unknown,https://developers.amadeus.com/self-service,Transportation
+apilayer aviationstack,Real-time Flight Status & Global Aviation Data API,OAuth,True,unknown,https://aviationstack.com/,Transportation
+Bay Area Rapid Transit,Stations and predicted arrivals for BART,apiKey,False,unknown,http://api.bart.gov,Transportation
+BC Ferries,Sailing times and capacities for BC Ferries,,True,yes,https://www.bcferriesapi.ca,Transportation
+BlaBlaCar,Search car sharing trips,apiKey,True,unknown,https://dev.blablacar.com,Transportation
+Boston MBTA Transit,Stations and predicted arrivals for MBTA,apiKey,True,unknown,https://www.mbta.com/developers/v3-api,Transportation
+Community Transit,Transitland API,,True,unknown,https://github.com/transitland/transitland-datastore/blob/master/README.md#api-endpoints,Transportation
+GraphHopper,A-to-B routing with turn-by-turn instructions,apiKey,True,unknown,https://graphhopper.com/api/1/docs/,Transportation
+Icelandic APIs,Open APIs that deliver services in or regarding Iceland,,True,unknown,http://docs.apis.is/,Transportation
+Izi,Audio guide for travellers,apiKey,True,unknown,http://api-docs.izi.travel/,Transportation
+Metro Lisboa,Delays in subway lines,,False,no,http://app.metrolisboa.pt/status/getLinhas.php,Transportation
+Navitia,The open API for building cool stuff with transport data,apiKey,True,unknown,https://api.navitia.io/,Transportation
+Open Charge Map,Global public registry of electric vehicle charging locations,apiKey,True,yes,https://openchargemap.org/site/develop/api,Transportation
+OpenSky Network,Free real-time ADS-B aviation data,,True,unknown,https://opensky-network.org/apidoc/index.html,Transportation
+REFUGE Restrooms,"Provides safe restroom access for transgender, intersex and gender nonconforming individuals",,True,unknown,https://www.refugerestrooms.org/api/docs/#!/restrooms,Transportation
+Schiphol Airport,Schiphol,apiKey,True,unknown,https://developer.schiphol.nl/,Transportation
+Tankerkoenig,German realtime gas/diesel prices,apiKey,True,yes,https://creativecommons.tankerkoenig.de/swagger/,Transportation
+TransitLand,Transit Aggregation,,True,unknown,https://transit.land/documentation/datastore/api-endpoints.html,Transportation
+"Transport for Atlanta, US",Marta,,False,unknown,http://www.itsmarta.com/app-developer-resources.aspx,Transportation
+"Transport for Auckland, New Zealand",Auckland Transport,,True,unknown,https://api.at.govt.nz/,Transportation
+Transport for Belgium,Belgian transport API,,True,unknown,https://hello.irail.be/api/,Transportation
+"Transport for Berlin, Germany",Third-party VBB API,,True,unknown,https://github.com/derhuerst/vbb-rest/blob/3/docs/index.md,Transportation
+"Transport for Bordeaux, France",Bordeaux Métropole public transport and more (France),apiKey,True,unknown,https://opendata.bordeaux-metropole.fr/explore/,Transportation
+"Transport for Boston, US",MBTA API,,False,unknown,https://mbta.com/developers/v3-api,Transportation
+"Transport for Budapest, Hungary",Budapest public transport API,,True,unknown,https://bkkfutar.docs.apiary.io,Transportation
+"Transport for Chicago, US",CTA,,False,unknown,http://www.transitchicago.com/developers/,Transportation
+Transport for Czech Republic,Czech transport API,,True,unknown,https://www.chaps.cz/eng/products/idos-internet,Transportation
+"Transport for Denver, US",RTD,,False,unknown,http://www.rtd-denver.com/gtfs-developer-guide.shtml,Transportation
+Transport for Finland,Finnish transport API,,True,unknown,https://digitransit.fi/en/developers/ ,Transportation
+Transport for Germany,Deutsche Bahn (DB) API,apiKey,False,unknown,http://data.deutschebahn.com/dataset/api-fahrplan,Transportation
+"Transport for Grenoble, France",Grenoble public transport,,False,no,https://www.metromobilite.fr/pages/opendata/OpenDataApi.html,Transportation
+"Transport for Honolulu, US",Honolulu Transportation Information,apiKey,False,unknown,http://hea.thebus.org/api_info.asp,Transportation
+Transport for India,India Public Transport API,apiKey,True,unknown,https://data.gov.in/sector/transport,Transportation
+"Transport for Lisbon, Portugal","Data about buses routes, parking and traffic",apiKey,True,unknown,https://emel.city-platform.com/opendata/,Transportation
+"Transport for London, England",TfL API,apiKey,True,unknown,https://api.tfl.gov.uk,Transportation
+"Transport for Manchester, England",TfGM transport network data,apiKey,True,no,https://developer.tfgm.com/,Transportation
+Transport for Norway,Transport APIs and dataset for Norway,,True,unknown,https://developer.entur.org/,Transportation
+"Transport for Paris, France",RATP Open Data API,,False,unknown,http://data.ratp.fr/api/v1/console/datasets/1.0/search/,Transportation
+"Transport for Philadelphia, US",SEPTA APIs,,False,unknown,http://www3.septa.org/hackathon/,Transportation
+"Transport for Sao Paulo, Brazil",SPTrans,OAuth,False,unknown,http://www.sptrans.com.br/desenvolvedores/api-do-olho-vivo-guia-de-referencia/documentacao-api/,Transportation
+Transport for Sweden,Public Transport consumer,OAuth,True,unknown,https://www.trafiklab.se/api,Transportation
+Transport for Switzerland,Swiss public transport API,,True,unknown,https://transport.opendata.ch/,Transportation
+Transport for The Netherlands,"OVAPI, country-wide public transport",,True,unknown,https://github.com/skywave/KV78Turbo-OVAPI/wiki,Transportation
+"Transport for Toronto, Canada",TTC,,True,unknown,https://myttc.ca/developers,Transportation
+Transport for United States,NextBus API,,False,unknown,http://www.nextbus.com/xmlFeedDocs/NextBusXMLFeed.pdf,Transportation
+"Transport for Vancouver, Canada",TransLink,OAuth,True,unknown,https://developer.translink.ca/,Transportation
+"Transport for Washington, US",Washington Metro transport API,OAuth,True,unknown,https://developer.wmata.com/,Transportation
+Uber,Uber ride requests and price estimation,OAuth,True,yes,https://developer.uber.com/products,Transportation
+1pt,A simple URL shortener,,True,yes,https://github.com/1pt-co/api/blob/main/README.md,URL Shorteners
+Bitly,URL shortener and link management,OAuth,True,unknown,http://dev.bitly.com/get_started.html,URL Shorteners
+CleanURI,URL shortener service,,True,yes,https://cleanuri.com/docs,URL Shorteners
+ClickMeter,"Monitor, compare and optimize your marketing links",apiKey,True,unknown,https://support.clickmeter.com/hc/en-us/categories/201474986,URL Shorteners
+Git.io,Git.io URL shortener,,True,unknown,https://github.blog/2011-11-10-git-io-github-url-shortener/,URL Shorteners
+GoTiny,"A lightweight URL shortener, focused on ease-of-use for the developer and end-user",,True,yes,https://github.com/robvanbakel/gotiny-api,URL Shorteners
+Is.gd,URL Shortening API,,True,unknown,https://is.gd/developers.php,URL Shorteners
+Kutt,Free Modern URL Shortener,apiKey,True,yes,https://docs.kutt.it/,URL Shorteners
+Rebrandly,Custom URL shortener for sharing branded links,apiKey,True,unknown,https://developers.rebrandly.com/v1/docs,URL Shorteners
+Short Link,Short URLs support so many domains,,True,unknown,https://github.com/FayasNoushad/Short-Link-API,URL Shorteners
+Shrtcode,URl Shortener with multiple Domains,,True,yes,https://shrtco.de/docs,URL Shorteners
+Shrtlnk,Simple and efficient short link creation,apiKey,True,yes,https://shrtlnk.dev/developer,URL Shorteners
+T.LY,URL shortener API,,True,no,https://t.ly/docs,URL Shorteners
+TinyUID,Shorten long URLs,,True,yes,https://tinyuid.com/docs,URL Shorteners
+Zero Width Shortener,"Shortens URLs using spaces that have zero width, making them invisible to humans",,True,unknown,https://docs.zws.im,URL Shorteners
+Brazilian Vehicles and Prices,Vehicles information from Fundação Instituto de Pesquisas Econômicas - Fipe,,True,unknown,https://deividfortuna.github.io/fipe/,Vehicle
+Kelley Blue Book,"Vehicle info, pricing, configuration, plus much more",apiKey,True,no,http://developer.kbb.com/#!/data/1-Default,Vehicle
+Mercedes-Benz,"Telematics data, remotely access vehicle functions, car configurator, locate service dealers",apiKey,True,no,https://developer.mercedes-benz.com/apis,Vehicle
+"Motor Vehicle Department, Maharashtra, India",Driving License (DL) and Vehicle Registration Certificate (RC) of the State Maharashtra of India,apiKey,True,no,https://apisetu.gov.in/public/api/transportmh,Vehicle
+NHTSA,NHTSA Product Information Catalog and Vehicle Listing,,True,unknown,https://vpic.nhtsa.dot.gov/api/,Vehicle
+Smartcar,Lock and unlock vehicles and get data like odometer reading and location. Works on most new cars,OAuth,True,yes,https://smartcar.com/docs/,Vehicle
+An API of Ice And Fire,Game Of Thrones API,,True,unknown,https://anapioficeandfire.com/,Video
+Breaking Bad,Breaking Bad API,,True,unknown,https://breakingbadapi.com/documentation,Video
+Breaking Bad Quotes,Some Breaking Bad quotes,,True,unknown,https://github.com/shevabam/breaking-bad-quotes,Video
+Czech Television,TV programme of Czech TV,,False,unknown,http://www.ceskatelevize.cz/xml/tv-program/,Video
+Dailymotion,Dailymotion Developer API,OAuth,True,unknown,https://developer.dailymotion.com/,Video
+ErosNow,API for Bollywood films and many more,,True,unknown,https://pwaproxy.erosnow.com/api/v2/catalog/playlists-all?img_quality=1&location=3&page=121&resp=basic&new=true&start=2&content_limit=10&rows=5&optimized=true&progress=all&watchlist=all&country=US,Video
+Final Space,Final Space API,,True,yes,https://finalspaceapi.com/docs/,Video
+Game of Thrones Quotes,Some Game of Thrones quotes,,True,unknown,https://gameofthronesquotes.xyz/,Video
+Lucifer Quotes,Returns Lucifer quotes,,True,unknown,https://github.com/shadowoff09/lucifer-quotes,Video
+MCU Countdown,A Countdown to the next MCU Film,,True,yes,https://github.com/DiljotSG/MCU-Countdown,Video
+Movie Quote,Random Movie and Series Quotes,,True,yes,https://github.com/F4R4N/movie-quote/,Video
+Open Movie Database,Movie information,apiKey,True,unknown,http://www.omdbapi.com/,Video
+Ron Swanson Quotes,Television,,True,unknown,https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api,Video
+STAPI,Information on all things Star Trek,,False,no,http://stapi.co,Video
+Stranger Things Quotes,Returns Stranger Things quotes,,True,unknown,https://github.com/shadowoff09/strangerthings-quotes,Video
+SWAPI,All things Star Wars,,True,yes,https://www.swapi.tech,Video
+The Lord of the Rings,The Lord of the Rings API,apiKey,True,unknown,https://the-one-api.dev/,Video
+The Vampire Diaries,TV Show Data,apiKey,True,yes,https://vampire-diaries-api.netlify.app/,Video
+ThronesApi,Game Of Thrones Characters Data with imagery,,True,unknown,https://thronesapi.com/,Video
+TMDb,Community-based movie data,apiKey,True,unknown,https://www.themoviedb.org/documentation/api,Video
+Trakt,Movie and TV Data,apiKey,True,yes,https://trakt.tv/b/api-docs,Video
+TVDB,Television data,apiKey,True,unknown,https://api.thetvdb.com/swagger,Video
+TVMaze,TV Show Data,,False,unknown,http://www.tvmaze.com/api,Video
+Vimeo,Vimeo Developer API,OAuth,True,unknown,https://developer.vimeo.com/,Video
+YouTube,Add YouTube functionality to your sites and apps,OAuth,True,unknown,https://developers.google.com/youtube/,Video
+7Timer!,"Weather, especially for Astroweather",,False,unknown,http://www.7timer.info/doc.php?lang=en,Weather
+AccuWeather,Weather and forecast data,apiKey,False,unknown,https://developer.accuweather.com/apis,Weather
+apilayer weatherstack,Real-Time & Historical World Weather Data API,apiKey,True,unknown,https://weatherstack.com/,Weather
+APIXU,Weather,apiKey,True,unknown,https://www.apixu.com/doc/request.aspx,Weather
+AviationWeather,NOAA aviation weather forecasts and observations,,True,unknown,https://www.aviationweather.gov/dataserver,Weather
+ColorfulClouds,Weather,apiKey,True,yes,https://open.caiyunapp.com/ColorfulClouds_Weather_API,Weather
+Foreca,Weather,OAuth,True,unknown,https://developer.foreca.com,Weather
+Hong Kong Obervatory,"Provide weather information, earthquake information, and climate data",,True,unknown,https://www.hko.gov.hk/en/abouthko/opendata_intro.htm,Weather
+MetaWeather,Weather,,True,no,https://www.metaweather.com/api/,Weather
+Meteorologisk Institutt,Weather and climate data,User-Agent,True,unknown,https://api.met.no/weatherapi/documentation,Weather
+ODWeather,Weather and weather webcams,,False,unknown,http://api.oceandrivers.com/static/docs.html,Weather
+Open-Meteo,Global weather forecast API for non-commercial use,,True,yes,https://open-meteo.com/,Weather
+openSenseMap,Data from Personal Weather Stations called senseBoxes,,True,yes,https://api.opensensemap.org/,Weather
+OpenUV,Real-time UV Index Forecast,apiKey,True,unknown,https://www.openuv.io,Weather
+OpenWeatherMap,Weather,apiKey,True,unknown,https://openweathermap.org/api,Weather
+QWeather,Location-based weather data,apiKey,True,yes,https://dev.qweather.com/,Weather
+SG Weather Reading,Realtime weather readings for Singapore area including other weather parameters,,True,unknown,https://data.gov.sg/dataset/realtime-weather-readings,Weather
+Storm Glass,Global marine weather from multiple sources,apiKey,True,yes,https://stormglass.io/,Weather
+Tomorrow,Weather API Powered by Proprietary Technology,apiKey,True,unknown,https://docs.tomorrow.io,Weather
+Troposphere,Global weather and climate data,apiKey,True,yes,https://www.troposphere.io/developer,Weather
+Visual Crossing,Global historical and weather forecast data,apiKey,True,yes,https://www.visualcrossing.com/weather-api,Weather
+weather-api,A RESTful free API to check the weather,,True,no,https://github.com/robertoduessmann/weather-api,Weather
+Weatherbit,Weather,apiKey,True,unknown,https://www.weatherbit.io/api,Weather
+wttr,:partly_sunny: The right way to check the weather,,True,unknown,https://github.com/chubin/wttr.in,Weather
